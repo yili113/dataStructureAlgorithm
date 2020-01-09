@@ -62,6 +62,50 @@ class Node{
     }
 
     /**
+     *
+     * @param value 希望删除的结点的值
+     * @return 返回需要删除的结点 没找到的话就返回null
+     */
+    public Node search(int value) {
+        if (this.value == value) {// 找到要删除的结点
+            return this;// 放回找到的结点
+        }else {
+            if (this.value > value) {// 要找的结点在当前结点左边
+                if (this.left != null) {// 左子结点存在 往左侧递归找
+                    return this.left.search(value);
+                }else {
+                    return null;
+                }
+            }else {// 要找的结点在当前结点的右边
+                if (this.right == null) {
+                    return null;
+                }else {
+                    return this.right.search(value);
+                }
+            }
+        }
+    }
+
+    /**
+     * 查找需要删除结点的父结点
+     * @param value 需要删除结点的值
+     * @return 需要删除结点的父结点 没找到的话就返回null
+     */
+    public Node searchParent(int value) {
+        if (this.left != null && this.left.value == value ||
+            this.right != null && this.right.value == value) {
+            return this;
+        }else {
+            if (value < this.value && this.left != null) {// 向左找
+                return this.left.searchParent(value);
+            }else if (value >= this.value && this.left != null) {
+                return this.right.searchParent(value);
+            }else {// 没找到父节点
+                return null;
+            }
+        }
+    }
+    /**
      * 添加结点
      * @param node
      */
