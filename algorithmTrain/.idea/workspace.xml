@@ -1,0 +1,940 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="javaWeb:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/mavendemo/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="liyishop@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="liyishop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="liyishop@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="liyishop: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+              <folding>
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#279#280#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/A.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/B.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/ClassReloader.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/D.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/C.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/fromVideo/Main.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/demo/TestModifyTxt.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/MaxSubSum.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/TestMyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/SparseArr.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/queue/queueArr.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/queue/queueArrDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/queue/QueueArrDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/queue/CircleArrayQueueDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/linkedList/SingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/linkedList/CircleSingleLinkedListDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/stack/ArrayStackDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sparseArr/stack/Cal.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/stack/Cal.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/stack/PolandNotation.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/recursion/Labyrinth.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/recursion/Queen8.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/search/Search.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/hashTable/HashTableDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/search/FibonacciSearch.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/ArrBinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/BinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/ThreadedBinaryTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/Huffmantree.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.3.9-bin\repository\repository" />
+        <option name="mavenHome" value="D:/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.3.9-bin\apache-maven-3.3.9\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="698" />
+    <option name="y" value="92" />
+    <option name="width" value="1029" />
+    <option name="height" value="922" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="binarySortTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="SingleLinkedListDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="huffmanCode" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1570517504530" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IdeaProjects\algorithmTrain\src\cqupt\dataStructure\tree\threaded" />
+      <recent name="D:\IdeaProjects\algorithmTrain\src\cqupt\dataStructure\tree" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BinarySortTreeDemo">
+    <configuration name="A" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.fromVideo.A" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.fromVideo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySortTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.binarySortTree.BinarySortTreeDemo" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.dataStructure.binarySortTree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.tree.HeapSort" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.dataStructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.tree.huffmanCode.HuffmanCode" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.dataStructure.tree.huffmanCode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Huffmantree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.tree.Huffmantree" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.dataStructure.tree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadedBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.tree.threaded.ThreadedBinaryTreeDemo" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.dataStructure.tree.threaded.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MavendemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mavendemo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cqupt.mavendemo.MavendemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 8.5.31" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" editBeforeRun="true" APPLICATION_SERVER_NAME="Tomcat 8.5.31" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/javaWeb/" />
+      <deployment>
+        <artifact name="javaWeb:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/javaWeb" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_8_5_31_algorithmTrain" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="9245" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="javaWeb:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A" />
+      <item itemvalue="Spring Boot.MavendemoApplication" />
+      <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
+      <item itemvalue="Application.ThreadedBinaryTreeDemo" />
+      <item itemvalue="Application.HeapSort" />
+      <item itemvalue="Application.Huffmantree" />
+      <item itemvalue="Application.HuffmanCode" />
+      <item itemvalue="Application.BinarySortTreeDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySortTreeDemo" />
+        <item itemvalue="Application.HuffmanCode" />
+        <item itemvalue="Application.Huffmantree" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.ThreadedBinaryTreeDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="" />
+      <created>1569246865265</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569246865265</updated>
+      <workItem from="1569246869027" duration="853000" />
+      <workItem from="1569308900170" duration="7165000" />
+      <workItem from="1569375518966" duration="855000" />
+      <workItem from="1569379182170" duration="713000" />
+      <workItem from="1569379929340" duration="4781000" />
+      <workItem from="1569462414431" duration="358000" />
+      <workItem from="1569462816322" duration="1592000" />
+      <workItem from="1569495748414" duration="5558000" />
+      <workItem from="1569501957453" duration="822000" />
+      <workItem from="1570516887542" duration="583000" />
+      <workItem from="1570626662591" duration="629000" />
+      <workItem from="1573124675653" duration="1703000" />
+      <workItem from="1573174908049" duration="670000" />
+      <workItem from="1573213665900" duration="48000" />
+      <workItem from="1576754438105" duration="7465000" />
+      <workItem from="1576979959563" duration="6324000" />
+      <workItem from="1577100449925" duration="12101000" />
+      <workItem from="1577274099182" duration="63598000" />
+      <workItem from="1578271359715" duration="57635000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="173453000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.17590618" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.22535211" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33415535" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3287483" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064266" side_tool="true" weight="0.1911967" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.328125" />
+      <window_info anchor="bottom" id="Problems" order="12" />
+      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.29023385" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3287483" />
+      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
+      <window_info anchor="right" id="Maven" order="9" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.16257995" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/ClassReloader.java" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f94cf721-b56c-4da4-ae94-7f77180fe62f/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaWeb/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/B.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/C.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/fromVideo/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="49" lean-forward="true" selection-start-line="23" selection-start-column="49" selection-end-line="23" selection-end-column="49" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#322#323#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#835#836#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#1015#1016#0" expanded="true" />
+            <element signature="e#1059#1060#0" expanded="true" />
+            <element signature="e#1198#1199#0" expanded="true" />
+            <element signature="e#1236#1237#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/MaxSubSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/algorithmBook/chapterOne/TestMyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/demo/TestModifyTxt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/queue/CircleArrayQueueDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1302">
+          <caret line="66" column="31" lean-forward="true" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/linkedList/CircleSingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1491">
+          <caret line="71" column="9" lean-forward="true" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
+          <folding>
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#577#578#0" expanded="true" />
+            <element signature="e#602#603#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#663#664#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#755#756#0" expanded="true" />
+            <element signature="e#787#788#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/queue/QueueArrDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="10" selection-start-line="10" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sparseArray/SparseArr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/stack/ArrayStackDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+          <folding>
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+            <element signature="e#514#515#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
+            <element signature="e#1604#1605#0" expanded="true" />
+            <element signature="e#1634#1635#0" expanded="true" />
+            <element signature="e#2642#2643#0" expanded="true" />
+            <element signature="e#2702#2703#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/stack/Cal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="28" lean-forward="true" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/NumberFormatException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/stack/PolandNotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/recursion/Labyrinth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/recursion/Queen8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="36" column="13" lean-forward="true" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/search/Search.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/hashTable/HashTableDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3759">
+          <caret line="179" column="9" selection-start-line="179" selection-start-column="9" selection-end-line="179" selection-end-column="9" />
+          <folding>
+            <element signature="e#545#546#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/search/FibonacciSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="79" column="17" lean-forward="true" selection-start-line="79" selection-start-column="17" selection-end-line="79" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/ThreadedBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/ArrBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <folding>
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#327#328#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#534#535#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/BinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="29" />
+          <folding>
+            <element signature="e#3666#3667#0" expanded="true" />
+            <element signature="e#3700#3701#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="332" column="25" lean-forward="true" selection-start-line="332" selection-start-column="25" selection-end-line="332" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/ThreadedBinaryTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4977">
+          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+          <folding>
+            <element signature="e#1004#1005#0" expanded="true" />
+            <element signature="e#1023#1024#0" expanded="true" />
+            <element signature="e#3195#3196#0" expanded="true" />
+            <element signature="e#3226#3227#0" expanded="true" />
+            <element signature="e#3271#3272#0" expanded="true" />
+            <element signature="e#3311#3312#0" expanded="true" />
+            <element signature="e#3344#3345#0" expanded="true" />
+            <element signature="e#3376#3377#0" expanded="true" />
+            <element signature="e#3423#3424#0" expanded="true" />
+            <element signature="e#3465#3466#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/linkedList/SingleLinkedListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="219" column="1" lean-forward="true" selection-start-line="219" selection-start-column="1" selection-end-line="219" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/Huffmantree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="45" column="5" lean-forward="true" selection-start-line="16" selection-start-column="3" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="436" column="16" selection-start-line="436" selection-start-column="16" selection-end-line="436" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="71" column="45" lean-forward="true" selection-start-line="71" selection-start-column="45" selection-end-line="71" selection-end-column="45" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>javaWeb:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>algorithmTrain</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
