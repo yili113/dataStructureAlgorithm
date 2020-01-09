@@ -7,7 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -71,8 +71,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="306" column="29" selection-start-line="306" selection-start-column="29" selection-end-line="306" selection-end-column="29" />
+            <state relative-caret-position="294">
+              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
               <folding>
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#539#540#0" expanded="true" />
@@ -164,7 +164,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="803" />
     <option name="y" value="106" />
     <option name="width" value="1029" />
@@ -509,12 +509,12 @@
       <workItem from="1577100449925" duration="12101000" />
       <workItem from="1577274099182" duration="63598000" />
       <workItem from="1578271359715" duration="57635000" />
-      <workItem from="1578554873651" duration="10207000" />
+      <workItem from="1578554873651" duration="10761000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="183660000" />
+    <option name="totallyTimeSpent" value="184214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,10 +526,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="803" y="106" width="1029" height="922" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" weight="0.34365326" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.19509594" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -538,7 +538,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.19416244" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.21041214" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33415535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -563,7 +563,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.2621259" />
+      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.16364606" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -885,8 +885,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="306" column="29" selection-start-line="306" selection-start-column="29" selection-end-line="306" selection-end-column="29" />
+        <state relative-caret-position="294">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
           <folding>
             <element signature="e#512#513#0" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />

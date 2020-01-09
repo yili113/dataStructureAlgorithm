@@ -3,6 +3,16 @@ package cqupt.dataStructure.avlTree;
 /**
  * @author yiLi
  * @create 2020-01-09 19:24
+ * 要明白的是：在进行左右旋转的时候 调用那些旋转方法都是root结点调用的
+ *     public void add(Node node) {
+ *         if (root == null) {
+ *             root = node;
+ *         }else {
+ *             root.add(node);
+ *         }
+ *     }
+ * 添加结点时候是一个一个添加的，每添加一个都会进行是否旋转的判断
+ * 所以！在形成AVL树的过程中不会出现左右子树高度差大于1
  */
 public class AVLTreeDemo {
     public static void main(String[] args) {
@@ -40,7 +50,6 @@ class AVLTree {
         }else {
             root.add(node);
         }
-
     }
 
     /**
