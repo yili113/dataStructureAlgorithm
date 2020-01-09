@@ -8,8 +8,8 @@
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/META-INF/algorithmTrain.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/BinarySortTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/BinarySortTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/Node.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -65,8 +65,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
-              <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+            <state relative-caret-position="510">
+              <caret line="122" column="94" selection-start-line="122" selection-start-column="94" selection-end-line="122" selection-end-column="94" />
             </state>
           </provider>
         </entry>
@@ -154,8 +154,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="698" />
-    <option name="y" value="92" />
+    <option name="x" value="861" />
+    <option name="y" value="64" />
     <option name="width" value="1029" />
     <option name="height" value="922" />
   </component>
@@ -488,12 +488,12 @@
       <workItem from="1577100449925" duration="12101000" />
       <workItem from="1577274099182" duration="63598000" />
       <workItem from="1578271359715" duration="57635000" />
-      <workItem from="1578554873651" duration="1467000" />
+      <workItem from="1578554873651" duration="4177000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="174920000" />
+    <option name="totallyTimeSpent" value="177630000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -508,7 +508,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.17910448" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.17750533" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -517,7 +517,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.22535211" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.24186552" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33415535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -542,7 +542,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.13859275" />
+      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.13539445" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -850,8 +850,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+        <state relative-caret-position="510">
+          <caret line="122" column="94" selection-start-line="122" selection-start-column="94" selection-end-line="122" selection-end-column="94" />
         </state>
       </provider>
     </entry>
