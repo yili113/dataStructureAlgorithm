@@ -173,6 +173,7 @@ public class Sort {
             System.out.println("left是："+left+" ----"+"right是："+right);
             while (tempLeft <= right) {
                 arr[tempLeft] = temp[t];
+                // 原数组的索引 和 temp数组的索引同时++
                 t += 1;
                 tempLeft += 1;
         }

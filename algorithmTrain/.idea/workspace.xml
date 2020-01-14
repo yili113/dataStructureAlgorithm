@@ -7,7 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/sort/Sort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -60,6 +62,18 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="142">
+              <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
@@ -71,8 +85,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="1402">
+              <caret line="375" column="13" selection-start-line="375" selection-start-column="13" selection-end-line="375" selection-end-column="13" />
               <folding>
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#539#540#0" expanded="true" />
@@ -128,12 +142,12 @@
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/ArrBinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/BinaryTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/ThreadedBinaryTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/HeapSort.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/Huffmantree.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
       </list>
     </option>
   </component>
@@ -164,7 +178,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="803" />
     <option name="y" value="106" />
     <option name="width" value="1029" />
@@ -509,12 +523,12 @@
       <workItem from="1577100449925" duration="12101000" />
       <workItem from="1577274099182" duration="63598000" />
       <workItem from="1578271359715" duration="57635000" />
-      <workItem from="1578554873651" duration="10761000" />
+      <workItem from="1578554873651" duration="14871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184214000" />
+    <option name="totallyTimeSpent" value="188324000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -526,7 +540,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.19509594" />
@@ -804,16 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="332" column="25" lean-forward="true" selection-start-line="332" selection-start-column="25" selection-end-line="332" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/threaded/ThreadedBinaryTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-4977">
@@ -883,10 +887,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="1402">
+          <caret line="375" column="13" selection-start-line="375" selection-start-column="13" selection-end-line="375" selection-end-column="13" />
           <folding>
             <element signature="e#512#513#0" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />
