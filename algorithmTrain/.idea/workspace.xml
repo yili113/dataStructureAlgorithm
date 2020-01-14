@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/sort/Sort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/dataStructure/sort/Sort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -82,14 +81,30 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1402">
-              <caret line="375" column="13" selection-start-line="375" selection-start-column="13" selection-end-line="375" selection-end-column="13" />
+            <state relative-caret-position="436">
+              <caret line="329" column="30" selection-start-line="329" selection-start-column="30" selection-end-line="329" selection-end-column="30" />
               <folding>
                 <element signature="e#512#513#0" expanded="true" />
                 <element signature="e#539#540#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2187#2188#0" expanded="true" />
+                <element signature="e#2307#2308#0" expanded="true" />
+                <element signature="e#2419#2420#0" expanded="true" />
+                <element signature="e#3292#3293#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +163,7 @@
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -178,9 +194,9 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="803" />
-    <option name="y" value="106" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="794" />
+    <option name="y" value="91" />
     <option name="width" value="1029" />
     <option name="height" value="922" />
   </component>
@@ -232,6 +248,14 @@
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
               <item name="binarySortTree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
@@ -523,12 +547,12 @@
       <workItem from="1577100449925" duration="12101000" />
       <workItem from="1577274099182" duration="63598000" />
       <workItem from="1578271359715" duration="57635000" />
-      <workItem from="1578554873651" duration="14871000" />
+      <workItem from="1578554873651" duration="19024000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188324000" />
+    <option name="totallyTimeSpent" value="192477000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -540,10 +564,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="912" y="86" width="1029" height="922" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.19509594" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" weight="0.37770897" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -552,7 +576,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.21041214" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.17385787" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.33415535" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -577,7 +601,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.16364606" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.31682146" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -899,11 +923,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1402">
-          <caret line="375" column="13" selection-start-line="375" selection-start-column="13" selection-end-line="375" selection-end-column="13" />
+        <state relative-caret-position="436">
+          <caret line="329" column="30" selection-start-line="329" selection-start-column="30" selection-end-line="329" selection-end-column="30" />
           <folding>
             <element signature="e#512#513#0" expanded="true" />
             <element signature="e#539#540#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="46" column="32" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2187#2188#0" expanded="true" />
+            <element signature="e#2307#2308#0" expanded="true" />
+            <element signature="e#2419#2420#0" expanded="true" />
+            <element signature="e#3292#3293#0" expanded="true" />
           </folding>
         </state>
       </provider>
