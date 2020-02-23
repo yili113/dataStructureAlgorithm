@@ -20,8 +20,13 @@ public class Graph {
         // 添加边
         // A-B A-C B-C B-D B-E
         graph.insertEdge(0, 1, 1);
+        graph.insertEdge(0, 2, 1);
+        graph.insertEdge(1, 2, 1);
+        graph.insertEdge(1, 3, 1);
+        graph.insertEdge(1, 4, 1);
         // 显示图
         graph.showGraph();
+        graph.dfs();
     }
 
     private ArrayList<String> vertexList;// 存储顶点的集合
@@ -52,6 +57,20 @@ public class Graph {
      * 深度优先遍历算法
      * @param isVisited 每个结点是否被遍历过的标识
      * @param i 从i的这个结点开始
+     *          1.访问初始结点V,并标记V为已访问（此时要输出这个结点）
+     *          2.查找结点V的第一个邻接结点W
+     *          3.若W存在则继续执行4，否则回到第一步，从V的下一个结点继续
+     *          4.若W未被访问，对W进行深度优先遍历递归（即把W当做V 执行123步）
+     *          5.查找V的W邻接结点的下一个邻接结点，转到步骤3
+     *
+     *         graph.insertEdge(0, 1, 1);
+     *         graph.insertEdge(0, 2, 1);
+     *         graph.insertEdge(1, 2, 1);
+     *         graph.insertEdge(1, 3, 1);
+     *         graph.insertEdge(1, 4, 1);
+     *         这个例子而言，从B到C后，把C标记了，然后应该从C出发往下找（先找邻接的，再判断是否访问过）
+     *          结果发现C往下走不了，所以退到上一层的递归中；对于B找邻接，找C的下一个是D，此时把D标记，
+     *          然后从D进入，发现也没有，又退回到B层的递归，对于B找邻接，找D的紧挨着的下一个E。。。。。
      */
     public void dfs(boolean[] isVisited, int i ) {
         // 1.先输出当前结点
@@ -129,6 +148,8 @@ public class Graph {
         for (int[] link : edges) {
             System.out.println(Arrays.toString(link));
         }
+
+        // Arrays.deepToString(edges);
     }
 
     /**
