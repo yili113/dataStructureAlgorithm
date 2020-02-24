@@ -86,7 +86,7 @@ public class Kmp {
 
     /**
      * kmp算法
-     * @param s
+     * @param s 
      * @param t
      * @return 匹配到的字符串中第一个字符的下标
      */
@@ -95,15 +95,18 @@ public class Kmp {
         char[] t_arr = t.toCharArray();
 //        int[] next = getNextArray(t_arr);
         int[] next = getNext(t_arr);
+        // i表示目标串的指针 j表示模式串的指针
         int i = 0, j = 0;
+        // while出去条件是 两个数组任意一个遍历完
         while (i < s_arr.length && j < t_arr.length) {
+            // j==-1 表示模式串0号位置与目标串x的下一位置进行比较  体现在i++ j++
             if (j == -1 || s_arr[i] == t_arr[j]) {
                 i++;
                 j++;
             } else
-                j = next[j];
+                j = next[j];// 当出现不匹配时候就根据next数组来决定模式串的指针指向
         }
-        if (j == t_arr.length)
+        if (j == t_arr.length)// 如果j能遍历到最后 说明找到了  索引就是i-j  i是目标串最后的索引  减去模式串的长度就是匹配的起始位置
             return i - j;
         else
             return -1;
