@@ -1,10 +1,9 @@
 package cqupt.algorithm.kmp;
 
-import java.util.Arrays;
-
 /**
  * @author Liyi
  * @create 2020-02-24 15:49
+ * j == -1 || t[i] == t[j] 这个判断的先后顺序不能反了 不然会出现越界异常
  */
 public class Kmp {
     /**
@@ -17,25 +16,34 @@ public class Kmp {
     public static void main(String[] args) {
 //        System.out.println(kmpMatch("abcabaabaabcacb", "abaabcac"));
         int[] chars = getNext("ABCDABD".toCharArray());
-        System.out.println(Arrays.toString(chars));
+/*        System.out.println(Arrays.toString(chars));
+        System.out.println(Arrays.toString(getNextArray("ABCDABD".toCharArray())));*/
+        System.out.println(kmpMatch("abcabaabaabcacb", "abaabcac"));
     }
 
     /**
+     * 自己理解写的！
      * 得到next数组
+     *
      * 后缀下标是相对的 相对于当前这个元素
      * 前缀下标是固定的 前缀下标的下一位就是可以再次与当前不匹配位置对齐的
-     * @param toCharArray
+     *
+     * @param t 模式串转成的字符数组
+     * @return next数组
+     * 其中：next[0] = -1：当模式串的0号位置（模式串数组中的第一个字符）与目标串x位置不匹配的时候，让模式串-1号位置与目标串x位置尝试匹配，换句话说
+     * 让模式串0号位置与目标串的x+1号位置进行匹配
+     * next[1] = 0：当模式串1号位置与目标串x位置不匹配的时候，此时让模式串0号与目标串x位置匹配
      */
     private static int[] getNext(char[] t) {
         int[] next = new int[t.length];
-        next[0] = 0;
-        next[1] = 1;
+        next[0] = -1;
+        next[1] = 0;
         // 前缀j 从-1下标开始
-        int j = 0;
+        int j = -1;
         // 后缀i从下标0开始
-        int i = 1;
+        int i = 0;
         while (i < t.length - 1) {
-            if (t[i] == t[j] || j == -1) {// 如果后缀跟前缀相等 肯定要把后缀和前缀的指针同时后移
+            if (j == -1 || t[i] == t[j]) {// 如果后缀跟前缀相等 肯定要把后缀和前缀的指针同时后移
                 // 当前缀下标为0时候 j和i也要++
                 // 因为前缀为0时候意味着没有公共前后缀 此时next[i]就等于0  表示从模式串的0号位接着开始匹配
                 i ++;
@@ -49,6 +57,7 @@ public class Kmp {
     }
 
     /**
+     * 博客上抄的
      * 得到next数组
      * next[0] = -1表示若模式串的第一位与目标串x位置不匹配时，则模式串的-1号位置与目标串x位置进行匹配，也就是说模式串0号位置（第一个字符）与目标串x+1位置进行匹配
      * next[1] = 0：当模式串1号位置与目标串x位置不匹配，则模式串0号位置与目标串x位置进行匹配
@@ -84,7 +93,8 @@ public class Kmp {
     public static int kmpMatch(String s, String t) {
         char[] s_arr = s.toCharArray();
         char[] t_arr = t.toCharArray();
-        int[] next = getNextArray(t_arr);
+//        int[] next = getNextArray(t_arr);
+        int[] next = getNext(t_arr);
         int i = 0, j = 0;
         while (i < s_arr.length && j < t_arr.length) {
             if (j == -1 || s_arr[i] == t_arr[j]) {

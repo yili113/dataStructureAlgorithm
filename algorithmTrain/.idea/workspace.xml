@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="" />
+    <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,18 +89,19 @@
     <session id="-1444952574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3480" />
+          <entry key="java" value="3765" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3480" />
+          <entry key="JAVA" value="3765" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -118,18 +121,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-55">
-              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+            <state relative-caret-position="190">
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4099#4100#0" expanded="true" />
-                <element signature="e#4139#4140#0" expanded="true" />
-                <element signature="e#4219#4220#0" expanded="true" />
-                <element signature="e#4259#4260#0" expanded="true" />
-                <element signature="e#4338#4339#0" expanded="true" />
-                <element signature="e#4371#4372#0" expanded="true" />
-                <element signature="e#5246#5247#0" expanded="true" />
-                <element signature="e#5284#5285#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -138,11 +133,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
+            <state relative-caret-position="133">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
               <folding>
                 <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
+                <element signature="e#293#294#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -151,7 +146,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/dynamic/KnapsackProblem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="1368">
               <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
             </state>
           </provider>
@@ -160,8 +155,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="37" column="39" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="39" />
+            <state relative-caret-position="380">
+              <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -276,6 +271,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,7 +317,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -570,11 +565,12 @@
       <workItem from="1578554873651" duration="19024000" />
       <workItem from="1582446754502" duration="6854000" />
       <workItem from="1582510763686" duration="17963000" />
+      <workItem from="1582543936071" duration="1610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="217294000" />
+    <option name="totallyTimeSpent" value="218904000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -589,7 +585,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.1769437" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.17895442" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -598,7 +594,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.21702127" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.2851064" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2851064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -795,12 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-          <folding>
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#504#505#0" expanded="true" />
-            <element signature="e#534#535#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -858,9 +848,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2888">
           <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -882,53 +869,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
+        <state relative-caret-position="133">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
           <folding>
             <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-55">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4099#4100#0" expanded="true" />
-            <element signature="e#4139#4140#0" expanded="true" />
-            <element signature="e#4219#4220#0" expanded="true" />
-            <element signature="e#4259#4260#0" expanded="true" />
-            <element signature="e#4338#4339#0" expanded="true" />
-            <element signature="e#4371#4372#0" expanded="true" />
-            <element signature="e#5246#5247#0" expanded="true" />
-            <element signature="e#5284#5285#0" expanded="true" />
+            <element signature="e#293#294#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/dynamic/KnapsackProblem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="1368">
           <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="37" column="39" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="39" />
+        <state relative-caret-position="380">
+          <caret line="53" column="13" lean-forward="true" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
         </state>
       </provider>
     </entry>
