@@ -2,6 +2,7 @@ package cqupt.dataStructure.graph;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.LinkedList;
 
 /**
  * @author yiLi
@@ -26,19 +27,74 @@ public class Graph {
         graph.insertEdge(1, 4, 1);
         // 显示图
         graph.showGraph();
-        graph.dfs();
+        // graph.dfs();
+        graph.bfs();
     }
 
     private ArrayList<String> vertexList;// 存储顶点的集合
+
     private int[][] edges;// 存放图对应的邻接矩阵
     private int numOfEdges;// 表示边的数目
     private boolean[] isVisited;// 表示该顶点是否被访问过
-
     // 构造器 顶点个数
+
     public Graph(int n) {
         edges = new int[n][n];
         vertexList = new ArrayList<String>(n);
         numOfEdges = 0;
+    }
+
+    /**
+     * 重载bfs
+     */
+    private void bfs() {
+        isVisited = new boolean[vertexList.size()];
+        // 遍历所有的结点 bfs
+        for (int i = 0; i < getNumOfVertexs(); i++) {
+            if (!isVisited[i]) {
+                bfs(isVisited, i);
+            }
+        }
+    }
+
+    /**
+     * 广度优先遍历
+     * @param isVisited
+     * @param i 从i结点开始
+     *          一层一层的往外找
+     *          例如 从A开始找 就先把A的邻接结点找完 输出
+     *          然后从B开始找 把B的邻接全部输出完
+     *          使用一个队列存放输出过但是由该结点引出的还没开始的结点
+     *          使用链表实现队列 从后面加 前面出
+     */
+    private void bfs(boolean[] isVisited, int i) {
+        // 参数i表示从i结点开始
+        int u;// 表示队列头部结点
+        int w;// 存放u的邻接结点
+        LinkedList<Integer> queue = new LinkedList<>();
+        System.out.println(getValueByIndex(i));// 输出当前结点
+        // 标记当前结点为访问过
+        isVisited[i] = true;
+        // 将当前结点入队
+        queue.addLast(i);
+        // 只要队列不为空 就一直进行循环操作
+        // 1.将队列头部移除
+        // 2.把队列头部的邻接全部输出
+        // 3.并且将邻接的入队
+        while (!queue.isEmpty()) {
+            u = queue.removeFirst();// 自动拆箱
+            // 找邻接
+            w = getFirstNeighbor(u);
+            while (w != -1) {
+                if (!isVisited[w]) {
+                    System.out.println(getValueByIndex(w));
+                    isVisited[w] = true;
+                    queue.addLast(w);
+                }
+                // 如果u的第一个邻接w已被访问 则找下一个邻接
+                w = getNextNeighbor(u, w);// 找下一个邻接结点，体现广度优先，一层一层依次找完
+            }
+        }
     }
 
     /**
@@ -47,6 +103,7 @@ public class Graph {
     public void dfs() {
         isVisited = new boolean[vertexList.size()];
         // 遍历所有的结点 进行dfs
+        // 此处是 如果从A这个开头找不到的话 就从下一个没有被访问的结点开始 接着找
         for (int i = 0; i < getNumOfVertexs(); i++) {
             if (!isVisited[i]) {
                 dfs(isVisited, i);
@@ -83,6 +140,7 @@ public class Graph {
             if (!isVisited[w]) {// 如果w没有被访问过
                 dfs(isVisited, w);
             }
+            // 此处的含义是：找A的第一个邻接B  然后从B开始找 当发现B找不下去了  就从A的挨着B的下一个邻接开始找
             // 如果w已经被访问过了
             w = getNextNeighbor(i, w);
         }
