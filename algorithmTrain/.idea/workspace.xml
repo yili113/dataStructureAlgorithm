@@ -7,7 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -95,22 +96,32 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="798" />
+          <entry key="java" value="1177" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="798" />
+          <entry key="JAVA" value="1177" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
+            <state relative-caret-position="-55">
               <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -122,6 +133,19 @@
                 <element signature="e#4371#4372#0" expanded="true" />
                 <element signature="e#5246#5247#0" expanded="true" />
                 <element signature="e#5284#5285#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+              <folding>
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -182,6 +206,7 @@
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/test/Test11.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java" />
       </list>
     </option>
   </component>
@@ -219,9 +244,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="506" />
-    <option name="y" value="56" />
-    <option name="width" value="1030" />
+    <option name="x" value="860" />
+    <option name="y" value="65" />
+    <option name="width" value="1148" />
     <option name="height" value="924" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -251,13 +276,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -271,7 +289,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582469806857" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582520662597" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -298,7 +316,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Graph">
+  <component name="RunManager" selected="Application.Hanoitower">
     <configuration name="A" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cqupt.fromVideo.A" />
       <module name="algorithmTrain" />
@@ -351,12 +369,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuffmanCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.dataStructure.tree.huffmanCode.HuffmanCode" />
+    <configuration name="Hanoitower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.algorithm.hanoitower.Hanoitower" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.dataStructure.tree.huffmanCode.*" />
+          <option name="PATTERN" value="cqupt.algorithm.hanoitower.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,19 +478,19 @@
       <item itemvalue="Application.A" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="Application.HuffmanCode" />
       <item itemvalue="Application.BinarySortTreeDemo" />
       <item itemvalue="Application.AVLTreeDemo" />
       <item itemvalue="Application.Graph" />
       <item itemvalue="Application.Test11" />
+      <item itemvalue="Application.Hanoitower" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Hanoitower" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.Test11" />
         <item itemvalue="Application.AVLTreeDemo" />
         <item itemvalue="Application.BinarySortTreeDemo" />
-        <item itemvalue="Application.HuffmanCode" />
       </list>
     </recent_temporary>
   </component>
@@ -507,12 +525,12 @@
       <workItem from="1578271359715" duration="57635000" />
       <workItem from="1578554873651" duration="19024000" />
       <workItem from="1582446754502" duration="6854000" />
-      <workItem from="1582510763686" duration="4053000" />
+      <workItem from="1582510763686" duration="6102000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="203384000" />
+    <option name="totallyTimeSpent" value="205433000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -524,10 +542,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="757" y="62" width="918" height="739" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.1735925" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" weight="0.3381201" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -536,7 +554,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.1929078" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.15181518" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2851064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -561,7 +579,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.14544237" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.14544237" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -829,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="-55">
           <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -841,6 +859,17 @@
             <element signature="e#4371#4372#0" expanded="true" />
             <element signature="e#5246#5247#0" expanded="true" />
             <element signature="e#5284#5285#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/Hanoitower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding>
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
           </folding>
         </state>
       </provider>
