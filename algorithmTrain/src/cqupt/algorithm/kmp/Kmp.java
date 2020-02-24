@@ -86,7 +86,7 @@ public class Kmp {
 
     /**
      * kmp算法
-     * @param s 
+     * @param s
      * @param t
      * @return 匹配到的字符串中第一个字符的下标
      */
