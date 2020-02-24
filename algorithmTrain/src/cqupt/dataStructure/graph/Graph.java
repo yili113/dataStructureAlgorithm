@@ -93,6 +93,7 @@ public class Graph {
                 }
                 // 如果u的第一个邻接w已被访问 则找下一个邻接
                 w = getNextNeighbor(u, w);// 找下一个邻接结点，体现广度优先，一层一层依次找完
+                // 如果上面一行代码在while (w != -1)外  则没法动态改变w的值 会一直死在while里面
             }
         }
     }
