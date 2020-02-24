@@ -11,7 +11,7 @@ import java.util.LinkedList;
  */
 public class Graph {
     public static void main(String[] args) {
-        int n = 5;// 测试8个顶点的图的创建
+        int n = 5;// 测试5个顶点的图的创建
         String Vertexs[] = {"A", "B", "C", "D", "E"};
         Graph graph = new Graph(n);
         // 循环地添加顶点
