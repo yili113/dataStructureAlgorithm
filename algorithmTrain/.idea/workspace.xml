@@ -87,6 +87,7 @@
     <session id="-1444952574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -153,7 +154,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
+            <state relative-caret-position="-209">
               <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -255,10 +256,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="806" />
-    <option name="width" value="1149" />
-    <option name="height" value="1034" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="805" />
+    <option name="width" value="1150" />
+    <option name="height" value="1035" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -563,12 +564,12 @@
       <workItem from="1578554873651" duration="19024000" />
       <workItem from="1582446754502" duration="6854000" />
       <workItem from="1582510763686" duration="17963000" />
-      <workItem from="1582543936071" duration="3045000" />
+      <workItem from="1582543936071" duration="3097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="220339000" />
+    <option name="totallyTimeSpent" value="220391000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -592,7 +593,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.17446809" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" weight="0.17446809" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2851064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -900,7 +901,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/kmp/Kmp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="-209">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
