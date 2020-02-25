@@ -1,4 +1,4 @@
-package cqupt.algorithmBook.chapterOne;
+package cqupt.algorithmBook;
 
 /**
  * @author yiLi
