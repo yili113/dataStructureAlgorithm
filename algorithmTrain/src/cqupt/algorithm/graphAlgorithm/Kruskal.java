@@ -126,8 +126,11 @@ public class Kruskal {
             // 判断是否构成回路
             // 如果不构成回路，说明这条边可以入选，将这条边放入到res数组，然后将p1的终点设置为p2
             if (ends1 != ends2) {
-//                ends[p1] = p2;
-                ends[ends1] = ends2;// TODO
+//                ends[p1] = p2;// 这样是没有意义的因为<p1,p2>这条边已经可以放进最小生成树了，再这样设置终点并不是真正的终点
+                ends[ends1] = ends2;// TODO 拿E F G三个结点来说，假设现在已经放进去<E,F>=2,再放<E,G>时，ends[E]=F
+                // ends[G]=G,所以<E,G>可以放。再放<F,G>时，如果按照ends[p1] = p2，上一步结束时候ends[E]=G，所以判断
+                // ends[F]= F,ends[G]=G,所以<F,G>可以放。这样构成了回路，按照ends[ends1] = ends2，就是ends[F]=G，这样
+                // <F,G>就不会放进去了
                 res[index ++] = edges[i];// res数组的索引不断增加
             }
         }

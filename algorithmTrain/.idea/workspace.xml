@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/algorithm/graphAlgorithm/EData.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/algorithm/graphAlgorithm/EData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/algorithm/graphAlgorithm/Kruskal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/algorithm/graphAlgorithm/Kruskal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -101,12 +99,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9516" />
+          <entry key="java" value="9743" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9516" />
+          <entry key="JAVA" value="9743" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -135,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="135" column="40" lean-forward="true" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+            <state relative-caret-position="195">
+              <caret line="127" column="33" lean-forward="true" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
               <folding>
                 <element signature="e#2111#2112#0" expanded="true" />
                 <element signature="e#2188#2189#0" expanded="true" />
@@ -317,7 +315,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582718987487" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582727859982" />
     <property name="last_opened_file_path" value="G:/Tomcat 8.5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -559,12 +557,12 @@
       <workItem from="1582510763686" duration="17963000" />
       <workItem from="1582543936071" duration="3097000" />
       <workItem from="1582591897818" duration="14653000" />
-      <workItem from="1582695766123" duration="15055000" />
+      <workItem from="1582695766123" duration="18062000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250099000" />
+    <option name="totallyTimeSpent" value="253106000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -588,7 +586,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.29787233" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.30212766" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.35602838" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -613,7 +611,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.1735925" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.1735925" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -948,8 +946,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="135" column="40" lean-forward="true" selection-start-line="135" selection-start-column="40" selection-end-line="135" selection-end-column="40" />
+        <state relative-caret-position="195">
+          <caret line="127" column="33" lean-forward="true" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="33" />
           <folding>
             <element signature="e#2111#2112#0" expanded="true" />
             <element signature="e#2188#2189#0" expanded="true" />
