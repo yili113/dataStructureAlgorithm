@@ -7,8 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Prim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -99,33 +100,55 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8077" />
+          <entry key="java" value="8363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8077" />
+          <entry key="JAVA" value="8363" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="16" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Prim.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="625">
-              <caret line="105" column="9" lean-forward="true" selection-start-line="73" selection-end-line="105" selection-end-column="9" />
+            <state relative-caret-position="380">
+              <caret line="62" selection-start-line="62" selection-end-line="67" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+              <folding>
+                <element signature="e#2111#2112#0" expanded="true" />
+                <element signature="e#2188#2189#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="367" column="84" selection-start-line="367" selection-start-column="84" selection-end-line="367" selection-end-column="84" />
             </state>
           </provider>
         </entry>
@@ -138,6 +161,14 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>weight</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>matrix</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -182,7 +213,6 @@
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/avlTree/AVLTreeDemo.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/test/Test11.java" />
         <option value="$PROJECT_DIR$/src/cqupt/algorithm/Hanoitower.java" />
         <option value="$PROJECT_DIR$/src/cqupt/algorithm/hanoitower/dynamic/Hanoitower.java" />
@@ -196,6 +226,8 @@
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/cqupt/dataStructure/graph/Graph.java" />
         <option value="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Prim.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java" />
       </list>
     </option>
   </component>
@@ -281,6 +313,21 @@
               <item name="algorithm" type="462c0819:PsiDirectoryNode" />
               <item name="graphAlgorithm" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -293,7 +340,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582699987852" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1582704537548" />
     <property name="last_opened_file_path" value="G:/Tomcat 8.5" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -320,7 +367,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prim">
+  <component name="RunManager" selected="Application.Kruskal">
     <configuration name="A" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cqupt.fromVideo.A" />
       <module name="algorithmTrain" />
@@ -347,12 +394,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kmp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.algorithm.kmp.Kmp" />
+    <configuration name="Kruskal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.algorithm.graphAlgorithm.Kruskal" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.algorithm.kmp.*" />
+          <option name="PATTERN" value="cqupt.algorithm.graphAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -482,19 +529,19 @@
       <item itemvalue="Application.A" />
       <item itemvalue="Spring Boot.MavendemoApplication" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="Application.Kmp" />
       <item itemvalue="Application.Greedy" />
       <item itemvalue="Application.TwoSum" />
       <item itemvalue="Application.LengthOfLongestSubstring" />
       <item itemvalue="Application.Prim" />
+      <item itemvalue="Application.Kruskal" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kruskal" />
         <item itemvalue="Application.Prim" />
         <item itemvalue="Application.LengthOfLongestSubstring" />
         <item itemvalue="Application.TwoSum" />
         <item itemvalue="Application.Greedy" />
-        <item itemvalue="Application.Kmp" />
       </list>
     </recent_temporary>
   </component>
@@ -535,12 +582,12 @@
       <workItem from="1582510763686" duration="17963000" />
       <workItem from="1582543936071" duration="3097000" />
       <workItem from="1582591897818" duration="14653000" />
-      <workItem from="1582695766123" duration="4032000" />
+      <workItem from="1582695766123" duration="7232000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239076000" />
+    <option name="totallyTimeSpent" value="242276000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -555,7 +602,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" weight="0.18297587" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49864864" visible="true" weight="0.18297587" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -564,7 +611,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" visible="true" weight="0.10921986" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.30921987" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -589,7 +636,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21658097" />
       <window_info anchor="right" id="Maven" order="9" />
-      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.2523256" />
+      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.15616623" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -786,13 +833,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2888">
-          <caret line="154" column="23" selection-start-line="154" selection-start-column="23" selection-end-line="154" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -910,8 +950,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Prim.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="625">
-          <caret line="105" column="9" lean-forward="true" selection-start-line="73" selection-end-line="105" selection-end-column="9" />
+        <state relative-caret-position="380">
+          <caret line="62" selection-start-line="62" selection-end-line="67" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/algorithm/graphAlgorithm/Kruskal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="44" />
+          <folding>
+            <element signature="e#2111#2112#0" expanded="true" />
+            <element signature="e#2188#2189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="367" column="84" selection-start-line="367" selection-start-column="84" selection-end-line="367" selection-end-column="84" />
         </state>
       </provider>
     </entry>
