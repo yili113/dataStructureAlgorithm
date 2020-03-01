@@ -60,7 +60,7 @@ public class LengthOfLongestSubstring {
                     visited[s.charAt(left)] = false;// 回溯 ！  因为left指针位置变了 之前访问过的可以重新访问了
                     left++;// 不断移动left指针 直到遇到与right一样的字符
                 }
-                // 如果没有这两个个指针++ 则会陷入死循环：dvdfe-->第一个d一直是true,没有改成false,而right一直指向第二个d
+                // 如果没有这两个指针++ 则会陷入死循环：dvdfe-->第一个d一直是true,没有改成false,而right一直指向第二个d
                 // left一直指向第一个d 会一直死在else中
                 // 也就是没有一条语句改变left和right的指向 原地卡死
                 left++;
