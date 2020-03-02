@@ -32,9 +32,9 @@ public class T15 {
             return lists;
         Arrays.sort(nums);
         int base = 0;
-        while (base < nums.length - 2) {
-            int left = base + 1;
-            int right = nums.length - 1;
+        while (base < nums.length - 2) {// base的范围只能到倒数第三个元素，要保证left right能有指向
+            int left = base + 1;// left每轮都在base下一个开始指
+            int right = nums.length - 1;// right每轮都在数组最后一个元素开始指
             int baseVal = nums[base];
             while (left < right) {
                 int sum = baseVal + nums[left] + nums[right];
@@ -45,16 +45,16 @@ public class T15 {
                     list.add(nums[right]);
 
                     lists.add(list);
+                    // 选到一组元素之后 left和right都要移动 这种情况base不移动
                     right = moveLeft(nums, right - 1);
                     left = moveRight(nums, left + 1);
-
-
                 }else if (sum > 0) {
                     right = moveLeft(nums, right - 1);
                 }else {
                     left = moveRight(nums, left + 1);
                 }
             }
+            // 当left和right都选完一轮之后 base换下个数进行新的一轮
             base = moveRight(nums, base + 1);
         }
         return lists;
@@ -65,6 +65,8 @@ public class T15 {
      * 传进来参数是left的右侧（下一个）！！！！  也就是说下一个left
      * 这个方法就是判断left指向的下一个是不是合格的，是不是重复的
      * 重复的就会 left++, 直到找到不重复的
+     *
+     * 这里只判断相邻的两个数是否就可以取决于开始对数组进行了排序
      * @param nums
      * @param left
      * @return
