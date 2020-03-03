@@ -25,8 +25,8 @@ public class T22 {
      * @param curString 存放满足要求得字符串  n对括号满足要求的一种
      * @param list 存放所有满足要求的字符串
      * @param n n对括号
-     * @param left 左括号的个数
-     * @param right 右括号的个数
+     * @param left 已有左括号的个数
+     * @param right 已有右括号的个数
      */
     private void helper(String curString, ArrayList<String> list, int n, int left, int right) {
         // 递归出口
