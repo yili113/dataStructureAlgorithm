@@ -18,7 +18,7 @@ public class Kmp {
         int[] chars = getNext("ABCDABD".toCharArray());
 /*        System.out.println(Arrays.toString(chars));
         System.out.println(Arrays.toString(getNextArray("ABCDABD".toCharArray())));*/
-        System.out.println(kmpMatch("abcabaabaabcacb", "abaabcac"));
+        System.out.println(kmpMatch("a", "a"));
     }
 
     /**
@@ -91,6 +91,18 @@ public class Kmp {
      * @return 匹配到的字符串中第一个字符的下标
      */
     public static int kmpMatch(String s, String t) {
+        if (t.length() == 0)
+            return 0;
+        if(s.length() == 0 && t.length() != 0)
+            return -1;
+        if (t.length() == 1) {
+            for (int i = 0; i < s.length(); i++) {
+                if (s.charAt(i) == t.charAt(0))
+                    return i;
+                else
+                    return -1;
+            }
+        }
         char[] s_arr = s.toCharArray();
         char[] t_arr = t.toCharArray();
 //        int[] next = getNextArray(t_arr);
