@@ -39,6 +39,7 @@ public class LengthOfLongestSubstring {
 
     /**
      * 正确解法
+     * 解决有无重复元素的题  利用boolean数组
      * @param s
      * @return
      */

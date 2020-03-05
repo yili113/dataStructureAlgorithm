@@ -83,7 +83,8 @@ public class T17 {
             char c = digits.charAt(index);
             if (map.containsKey(c)) {
                 for(char c1 : map.get(c)) {
-//                    curString += c1;// 这个是不能放在递归函数内的，因为curString可能被下一个递归给调用了 下一层变成了ad
+//                    curString += c1;
+                    // 这个是不能放在递归函数内的，因为curString可能被下一个递归给调用了 下一层变成了ad
                     // 然后递归出来之后 会接着在ad后面加e。
                     // 而作为递归参数传进去的话 参数是 curString + c1,在每层的递归的上一层的curString不会被改变
                     dfs(curString + c1, index + 1, digits, res, map);

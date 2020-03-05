@@ -6,7 +6,7 @@ package cqupt.dataStructure.recursion;
  */
 public class Queen8 {
     private static int JUDE_COUNT = 0;
-    static int max = 8;
+    static int max = 4;
     static int[] arr = new int[max];
     static int count = 0;
 
@@ -30,7 +30,9 @@ public class Queen8 {
             print();
             return;
         }
+        // n表示行  i表示列
         for (int i = 0; i < max; i++) {// 此处遍历的是每一列 每一列都要试一下 才能达到回溯的效果
+            // 这行代码是表示  第n个皇后放在i列看行不行 先放着 再去判断
             arr[n] = i;// 先放第n个皇后在第i列 i是遍历的 所以第n个皇后是每一列都放置了
             if (judge(n)) {// 如果第n个能放 则开始放n+1个
                 check(n + 1);
