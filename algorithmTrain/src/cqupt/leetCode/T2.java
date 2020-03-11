@@ -5,7 +5,7 @@ package cqupt.leetCode;
  * @create 2020-02-25 10:55
  * T2 两数相加
  */
-public class AddTwoNumbers {
+public class T2 {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         // 以后做题记着先判断参数是否有效

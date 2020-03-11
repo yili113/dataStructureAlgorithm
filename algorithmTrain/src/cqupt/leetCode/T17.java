@@ -1,8 +1,6 @@
 package cqupt.leetCode;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
+import java.util.*;
 
 /**
  * @author Liyi
@@ -12,6 +10,7 @@ public class T17 {
 
     /**
      * 我的思路：遍历
+     * 只考虑了数字字符长度为2的情况
      * @param digits
      * @return
      */
@@ -52,15 +51,16 @@ public class T17 {
     }
 
     public static void main(String[] args) {
-        List<String> strings = letterCombinations("");
+        List<String> strings = letterCombinations("234");
         System.out.println(strings);
     }
 
     public static List<String> letterCombinations(String digits) {
         HashMap<Character, char[]> map = new HashMap<>();
-        ArrayList<String> res = new ArrayList<>();
+        ArrayList<String> dfsRes = new ArrayList<>();
+        LinkedList<String> bfsRes = new LinkedList<>();
         if (digits == "" || digits == null)
-            return res;
+            return bfsRes;
         map.put('2', new char[]{'a', 'b', 'c'});
         map.put('3', new char[]{'d', 'e', 'f'});
         map.put('4', new char[]{'g', 'h', 'i'});
@@ -70,9 +70,41 @@ public class T17 {
         map.put('8', new char[]{'t', 'u', 'v'});
         map.put('9', new char[]{'w', 'x', 'y', 'z'});
 
-        dfs("", 0, digits, res, map);
+//        dfs("", 0, digits, dfsRes, map);
+        bfs("", 1, 0, digits, bfsRes , map);
 
-        return res;
+        return bfsRes;
+    }
+
+    /**
+     * 最终的结果都放在一个 队列中
+     * @param cur 进行拼接的当前字符
+     * @param curSize 当前需要从队列中poll出来元素的个数
+     * @param index 遍历digits字符串的下标
+     * @param digits 初始的数字字符串
+     * @param queue 队列
+     * @param map 数字与字符集的map
+     */
+    private static void bfs(String cur, int curSize, int index, String digits, LinkedList<String> queue, HashMap<Character, char[]> map) {
+//        LinkedList<String> queue = new LinkedList<>();// 用链表模拟队列
+        ArrayList<String> pollList = new ArrayList<>();
+        queue.addLast(cur);
+        while (index < digits.length()) {
+            // 需要先把里面元素poll出来
+            // 根据curSize大小进行poll
+            for (int i = 0; i < curSize; i++) {
+                pollList.add(queue.removeFirst());
+            }
+            for (int i = 0; i < pollList.size(); i++) {
+                char[] chars = map.get(digits.charAt(index));
+                for (Character c : chars) {
+                    queue.addLast(pollList.get(i) + c);// 把pollList中的每个字符都拼接上新的字符
+                }
+            }
+            pollList.clear();// 将pollList置空
+            curSize *= 3;
+            index ++;
+        }
     }
 
     public static void dfs(String curString, int index, String digits, ArrayList<String> res, HashMap<Character,char[]> map) {

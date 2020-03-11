@@ -8,7 +8,7 @@ import java.util.HashMap;
  * @create 2020-02-25 10:35
  * T1 两数之和
  */
-public class TwoSum {
+public class T1 {
     /**
      * 使用map存每个数和其对应的下标
      * 每个数都只出现一次 时间复杂度为O(n)
@@ -20,7 +20,7 @@ public class TwoSum {
     public static void main(String[] args) {
         int[] nums = {2, 7, 11, 15};
         int target = 9;
-        TwoSum twoSum = new TwoSum();
+        T1 twoSum = new T1();
         System.out.println(Arrays.toString(twoSum.twoSum(nums, target)));
     }
     public int[] twoSum(int[] nums, int target) {

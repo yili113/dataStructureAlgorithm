@@ -7,7 +7,7 @@ import java.util.HashMap;
  * @create 2020-02-25 15:42
  * T3 无重复字符的最长子串
  */
-public class LengthOfLongestSubstring {
+public class T3 {
 
 
     /**
