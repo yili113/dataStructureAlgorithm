@@ -5,33 +5,31 @@ package cqupt.leetCode;
 /**
  * @author Liyi
  * @create 2020-03-03 15:40
+ * 链表题测试类
  */
 public class T19 {
     static ListNode dummy = new ListNode(0);
     public static void main(String[] args) {
         ListNode listNode1 = new ListNode(1);
-        ListNode listNode11 = new ListNode(1);
+        ListNode listNode22 = new ListNode(2);
         ListNode listNode2 = new ListNode(2);
         ListNode listNode3 = new ListNode(3);
         ListNode listNode4 = new ListNode(4);
         ListNode listNode5 = new ListNode(5);
         T19 t19 = new T19();
-        t19.add(listNode1, listNode2);
-//        t19.add(listNode1, listNode3);
         t19.add(listNode1, listNode4);
-//        t19.add(listNode1, listNode5);
-        t19.add(listNode11, listNode3);
-        t19.add(listNode11, listNode4);
+        t19.add(listNode1, listNode3);
+        t19.add(listNode1, listNode2);
+        t19.add(listNode1, listNode5);
+        t19.add(listNode1, listNode22);
+//        t19.add(listNode11, listNode4);
         t19.show(listNode1);
-        t19.show(listNode11);
-        T21 t21 = new T21();
-        ListNode newHead = t21.mergeTwoLists(listNode1, listNode11);
-        t19.show(newHead);
-//        System.out.println(t19.getLength(listNode1));
-/*        t19.removeNthFromEnd1(listNode1, 1);
-        t19.show(dummy.next);*/
-/*        ListNode head = t19.reverseNode(listNode1);
-        t19.show(head);*/
+        System.out.println("----------------------------------");
+        T86 t86 = new T86();
+        ListNode partitionNode = t86.partition(listNode1, 3);
+        t19.show(partitionNode);
+
+
     }
     /**
      * 思路：先找到倒数第n个结点 再删除
