@@ -35,8 +35,8 @@ public class T46 {
                     curList.add(nums[i]);
                     permuteHelper(result, curList, nums, hashSet);// 此处不用索引是因为每次递归都要从都头开始判断 重新走一遍for循环
                     // 这里用hashSet标记元素是否被访问过
-                    curList.remove(curList.size() - 1);// 回溯
                     hashSet.remove(nums[i]);// 回溯
+                    curList.remove(curList.size() - 1);// 回溯
                 }
             }
         }
@@ -47,7 +47,37 @@ public class T46 {
         T46 t46 = new T46();
         List<List<Integer>> lists = t46.permute(nums);
         List<List<Integer>> lists1 = t46.permuteUnique(nums);
-        System.out.println(lists1);
+        List<List<Integer>> lists2 = t46.permuteUnique1(nums);
+        System.out.println(lists2);
+    }
+
+    private List<List<Integer>> permuteUnique1(int[] nums) {
+        ArrayList<List<Integer>> results = new ArrayList<>();
+        if (nums == null || nums.length == 0)
+            return results;
+        Arrays.sort(nums);
+        boolean[] visited = new boolean[nums.length];
+        dfs(results, new ArrayList<Integer>(), 0, visited, nums);
+        return results;
+    }
+
+    private void dfs(ArrayList<List<Integer>> results, ArrayList<Integer> cur, int index, boolean[] visited, int[] nums) {
+        if (index == nums.length) {
+            results.add(new ArrayList<>(cur));
+            return;
+        }else {
+            // 需要为cur的index位置选值，从nums中第一个到最后一个数中选  cur的长度和nums长度一样
+            for (int i = 0; i < nums.length; i++) {
+                // 选的话还有条件
+                if (!visited[i] && (index == 0 || visited[index - 1] != visited[index] || visited[i - 1])) {
+                    cur.add(nums[i]);
+                    visited[i] = true;
+                    dfs(results, cur, index + 1, visited, nums);
+                    visited[i] = false;
+                    cur.remove(cur.size() - 1);
+                }
+            }
+        }
     }
 
     /**
@@ -72,7 +102,7 @@ public class T46 {
             // nums[0] - 1最开始的preNum 每一层的preNum都会改变
             for (int i = 0; i < nums.length; i++) {
                 // 只需要判断跟前面那个数是否相同 不用考虑跟后面的数是否相同 假如说有 222  肯定用第一个2
-                if (used[i] == false && nums[i] != preNum) {// 当前元素没有访问过并且和前面那个数不重复
+                if (!used[i] && nums[i] != preNum) {// 当前元素没有访问过并且和前面那个数不重复
                     preNum = nums[i];
                     curList.add(nums[i]);
                     used[i] = true;

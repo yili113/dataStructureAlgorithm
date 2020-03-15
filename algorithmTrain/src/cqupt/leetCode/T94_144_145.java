@@ -33,6 +33,24 @@ public class T94_144_145 {
             infixShow(result, root.right);
     }
 
+    public void infixPrint(TreeNode root) {
+        if (root.left != null) {
+            infixPrint(root.left);
+        }
+        System.out.println(root);
+        if (root.right != null)
+            infixPrint(root.right);
+    }
+    public void postPrint(TreeNode root) {
+        if (root.left != null) {
+            postPrint(root.left);
+        }
+        if (root.right != null) {
+            postPrint(root.right);
+        }
+        System.out.println(root);
+    }
+
     /**
      * 中序遍历----基于栈的迭代
      * 1.从根结点开始一直往下找左子树 不断把左子树push进栈

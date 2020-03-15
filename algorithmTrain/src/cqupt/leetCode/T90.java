@@ -39,11 +39,40 @@ public class T90 {
         else {
             // 当前元素不取
             helper(nums, index + 1, false, res, curLsit);
-            // 当前元素取
+            // 当前元素取  下面这个b为true是表示前一个选了
             if (b || nums[index - 1] != nums[index]) {// 如果前后两个元素相同，前者不取后者取的情况下就会造成重复
                 curLsit.add(nums[index]);
                 helper(nums, index + 1, true, res, curLsit);
                 curLsit.remove(curLsit.size() - 1);
+            }
+        }
+    }
+
+
+    public List<List<Integer>> subsetsWithDup1(int[] nums) {
+        ArrayList<List<Integer>> result = new ArrayList<>();
+        boolean[] visited = new boolean[nums.length];
+        Arrays.sort(nums);
+        dfs(result, new ArrayList<Integer>(), 0, nums, visited);
+        return result;
+    }
+
+    private void dfs(ArrayList<List<Integer>> result, ArrayList<Integer> cur, int index, int[] nums, boolean[] visited) {
+        if (index == nums.length) {
+            result.add(new ArrayList<>(cur));
+            return;
+        }
+        else {
+            // 不选
+            dfs(result, cur, index + 1, nums, visited);
+            // 选
+            // if中的||关系 要分清前后 很重要
+            if (index == 0 || nums[index - 1] != nums[index] || visited[index - 1]) {// 相同元素放在一起只有前面选了后面才能选
+                cur.add(nums[index]);
+                visited[index] = true;
+                dfs(result, cur, index + 1, nums, visited);
+                visited[index] = false;
+                cur.remove(cur.size() - 1);
             }
         }
     }

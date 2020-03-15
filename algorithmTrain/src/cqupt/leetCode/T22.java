@@ -16,8 +16,31 @@ public class T22 {
     }
     public List<String> generateParenthesis(int n) {
         ArrayList<String> list = new ArrayList<>();
-        helper("", list, n, 0, 0);
+//        helper("", list, n, 0, 0);
+        dfs("", list, n, n);
         return list;
+    }
+
+    /**
+     *
+     * @param cur
+     * @param result
+     * @param left 剩余的左括号个数
+     * @param right 剩余的右括号个数
+     */
+    private void dfs(String cur, ArrayList<String> result, int left, int right) {
+        if (left == 0 && right ==0) {
+            result.add(cur);
+        }else {
+            // 左括号的条件---只要左括号还有剩余就能加
+            if (left > 0) {
+                dfs(cur + "(", result, left - 1, right);
+            }
+            // 加右括号条件---已有的左括号大于右括号个数
+            else if (left < right) {
+                dfs(cur + ")", result, left, right - 1);
+            }
+        }
     }
 
     /**

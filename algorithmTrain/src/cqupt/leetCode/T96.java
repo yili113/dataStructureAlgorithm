@@ -1,11 +1,15 @@
 package cqupt.leetCode;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author Liyi
  * @create 2020-03-14 22:28
  * 不同的二叉搜索树
  * 动态规划
  * 一般要求返回个数或者返回有或者没有  考虑用动态规划
+ * 动态规划没有办法求详细的解
  */
 public class T96 {
 
@@ -31,5 +35,81 @@ public class T96 {
             dp[i] = sum;
         }
         return dp[n];
+    }
+
+    /**
+     *
+     * @param n 结点数
+     * @return 不同二叉搜索树的结果集   详细解---递归
+     */
+    public List<TreeNode> generateTrees(int n) {
+        /**
+         * 在这里定义result作为参数传进去 在遍历左子树和右子树时候会造成并发修改异常
+         * 应该把result定义在helper函数内
+         */
+//        ArrayList<TreeNode> result = new ArrayList<>();
+//        return helper(result, 1, n);
+        return helper(1, n);
+    }
+
+    /**
+     * 对于某一结点k来说,其左子树结点范围是1--(k-1),右子树结点范围是(k+1)--n
+     * @param min
+     * @param max
+     */
+    private List<TreeNode> helper(int min, int max) {
+        ArrayList<TreeNode> result = new ArrayList<>();
+        // 递归出口--min>max
+        if (min > max)
+            return result;
+        // 左右子树分别遍历
+        // 当前方法内所有可能值都尝试作为 root
+        for (int root = min; root <= max ; root++) {
+            // 得到左右子树结点集合
+            List<TreeNode> leftList = helper(min, root - 1);
+            List<TreeNode> rightList = helper(root + 1, max);
+            TreeNode rootNode;
+            // 判断左右子树集合情况
+            if (leftList.size() == 0 && rightList.size() == 0) {
+                rootNode = new TreeNode(root);
+                result.add(rootNode);
+            }
+            else if (rightList.size() == 0) {
+                for(TreeNode leftNode : leftList) {
+                    // 将结点拼接成树
+                    rootNode = new TreeNode(root);
+                    rootNode.left = leftNode;
+                    result.add(rootNode);
+                }
+            }
+            else if (leftList.size() == 0) {
+                for(TreeNode rightNode : rightList) {
+                    rootNode = new TreeNode(root);
+                    rootNode.right = rightNode;
+                    result.add(rootNode);
+                }
+            }
+            else {
+                for(TreeNode leftNode : leftList) {
+                    for (TreeNode rightNode : rightList) {
+                        rootNode = new TreeNode(root);
+                        rootNode.right = rightNode;
+                        rootNode.left = leftNode;
+                        result.add(rootNode);
+                    }
+                }
+            }
+        }
+        return result;
+    }
+
+    public static void main(String[] args) {
+        T96 t96 = new T96();
+        T94_144_145 t94_144_145 = new T94_144_145();
+        List<TreeNode> treeNodes = t96.generateTrees(3);
+        for (TreeNode treeNode : treeNodes) {
+            t94_144_145.postPrint(treeNode);
+            System.out.println("############################");
+        }
     }
 }

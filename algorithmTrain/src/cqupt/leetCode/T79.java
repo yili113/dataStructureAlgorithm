@@ -55,4 +55,52 @@ public class T79 {
 
         return false;
     }
+
+    public boolean exist1(char[][] board, String word) {
+        char[] chars = word.toCharArray();
+        int m = board.length;
+        int n = board[0].length;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (board[i][j] == chars[0]) {// 先将word的第一个字母匹配上
+                    boolean[][] visited = new boolean[m][n];
+                    visited[i][j] = true;
+                    if(dfs(board, chars, 1, visited, i, j, m, n))
+                        return true;
+                }
+            }
+        }
+        // 当所有的遍历完还没找到就false
+        return false;
+    }
+
+    private boolean dfs(char[][] board, char[] chars, int index, boolean[][] visited, int i, int j, int m, int n) {
+        if (index == chars.length)// 只要能到这一步就说明找到了
+            return true;
+        if (i > 0 && !visited[i - 1][j] && chars[index] == board[i - 1][j]) {// 向上找
+            visited[i - 1][j] = true;
+            if(dfs(board, chars, index + 1, visited, i - 1, j, m, n))
+                return true;
+            visited[i - 1][j] = false;
+        }
+        if (i < m - 1 && !visited[i + 1][j] && chars[index] == board[i + 1][j]) {// 向下找
+            visited[i + 1][j] = true;
+            if(dfs(board, chars, index + 1, visited, i + 1, j, m, n))
+                return true;
+            visited[i + 1][j] = false;
+        }
+        if (j > 0 && !visited[i][j - 1] && chars[index] == board[i][j - 1]) {// 向左找
+            visited[i][j - 1] = true;
+            if(dfs(board, chars, index + 1, visited, i, j - 1, m, n))
+                return true;
+            visited[i][j - 1] = false;
+        }
+        if (j < n - 1 && !visited[i][j + 1] && chars[index] == board[i][j + 1]) {// 向右找
+            visited[i][j + 1] = true;
+            if(dfs(board, chars, index + 1, visited, i, j + 1, m, n))
+                return true;
+            visited[i][j + 1] = false;
+        }
+        return false;
+    }
 }

@@ -13,7 +13,7 @@ public class T36 {
      * @param board
      * @return
      */
-    public static boolean isValidSudoku(char[][] board) {
+    public static boolean isValidSudoku1(char[][] board) {
         // 1.先判断每一行
         for (int row = 0; row < board.length; row++) {// 每一行都要有一个新的boolean数组 记录某个数字是否存在过
             boolean[] booleans = new boolean[board.length];
@@ -64,6 +64,44 @@ public class T36 {
             {'.','9','8','.','.','.','.','6','.'}, {'8','.','.','.','6','.','.','.','3'}, {'4','.','.','8','.','3','.','.','1'},
             {'7','.','.','.','2','.','.','.','6'}, {'.','6','.','.','.','.','2','8','.'}, {'.','.','.','4','1','9','.','.','5'},
             {'.','.','.','.','8','.','.','7','9'}};
-        System.out.println(isValidSudoku(chars));
+        System.out.println(isValidSudoku1(chars));
+    }
+
+    /**
+     * 思路2：判断每个位置是不是有效的
+     * @param board
+     * @return
+     */
+    public static boolean isValidSudoku(char[][] board) {
+        for (int i = 0; i < board.length; i++) {
+            for (int j = 0; j < board[0].length; j++) {
+                if (board[i][j] != '.') {// 此时要判断这个位置上的数字是否有效
+                    char c = board[i][j];
+                    board[i][j] = '.';// 先换成.然后去判断这个数字是否有效
+                    if(!isValid(board, i, j, c))
+                        return false;
+                    board[i][j] = c;
+                }
+            }
+        }
+        return true;// 此时每个位置都检查完了 并且都是有效的
+    }
+
+    private static boolean isValid(char[][] board, int i, int j, char c) {
+        // 判断该位置对应的行和列
+        for (int k = 0; k < 9; k++) {
+            if (board[i][k] == c)
+                return false;
+            if (board[k][j] == c)
+                return false;
+        }
+        // 判断该位置所在的小格子内是否有效
+        for (int p = i / 3 * 3; p < i / 3 * 3 + 3; p++) {
+            for (int q = j / 3 * 3; q < j / 3 * 3 + 3; q++) {
+                if (board[p][q] == c)
+                    return false;
+            }
+        }
+        return true;
     }
 }
