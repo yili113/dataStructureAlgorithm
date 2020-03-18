@@ -1,4 +1,4 @@
-package cqupt.leetCode;
+package cqupt.leetCode.bfs;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -57,5 +57,20 @@ class ComHelper implements Comparator<ListNode> {
     @Override
     public int compare(ListNode o1, ListNode o2) {
         return o1.val - o2.val;
+    }
+}
+class ListNode {
+    int val;
+    ListNode next;
+
+    ListNode(int x) {
+        val = x;
+    }
+
+    @Override
+    public String toString() {
+        return "ListNode{" +
+                "val=" + val +
+                '}';
     }
 }
