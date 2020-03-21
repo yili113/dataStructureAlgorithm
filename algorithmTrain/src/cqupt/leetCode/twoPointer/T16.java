@@ -1,4 +1,4 @@
-package cqupt.leetCode.threePointer;
+package cqupt.leetCode.twoPointer;
 
 import java.util.ArrayList;
 import java.util.Arrays;

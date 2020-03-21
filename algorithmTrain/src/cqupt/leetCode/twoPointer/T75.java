@@ -39,6 +39,7 @@ public class T75 {
      * 双指针法
      * left指针左侧(不包含当前位置)全是0
      * right指针右侧(不包含当前位置)全是2
+     * 也可以走两边双指针,第一遍把0放到开头,第二遍把2放到结尾
      * @param nums
      */
     public void sortColors1(int[] nums) {

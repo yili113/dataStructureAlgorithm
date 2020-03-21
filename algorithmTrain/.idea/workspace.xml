@@ -7,91 +7,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/tree/T124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/tree/T94_144_145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/tree/T98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T283.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T141_142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T159_340.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T611.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T100_101.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T16.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T17.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T19.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T21.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T22.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T26.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T27.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T33.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T34.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T35.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T37.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T39.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T46.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T51.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T61.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T62_63.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T64.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T69.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T70.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T74.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T75.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T78.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T79.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T81.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T82_83.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T86.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T90.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T91.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T92_206.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T93.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T94_144_145.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/T96.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T100_101.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/tree/T100_101.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/threePointer/T16.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T21.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T33.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T34.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T35.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T37.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T39.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T39.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T46.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T51.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T51.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T62_63.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T62_63.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T64.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T64.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T69.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T69.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T70.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T70.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T74.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T78.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T78.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T79.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T80.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T80.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T81.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T81.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T82_83.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T82_83.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T86.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T86.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T90.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T90.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T91.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T91.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T92_206.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T92_206.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T93.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T93.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T94_144_145.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/T96.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/dp/T96.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/threePointer/T16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T75.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T75.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/threePointer/T16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -173,7 +96,8 @@
     <session id="-1444952574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="25" />
+          <entry key="project.closed" value="26" />
+          <entry key="project.open.time.12" value="1" />
           <entry key="project.open.time.14" value="2" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="4" />
@@ -186,31 +110,31 @@
           <entry key="project.open.time.25" value="2" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="27" />
+          <entry key="project.opened" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="40" />
-          <entry key="java" value="69396" />
+          <entry key="dummy" value="46" />
+          <entry key="java" value="71200" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="69396" />
-          <entry key="PLAIN_TEXT" value="40" />
+          <entry key="JAVA" value="71200" />
+          <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="4" />
-          <entry key="java" value="325" />
+          <entry key="java" value="331" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="4" />
-          <entry key="JAVA" value="325" />
+          <entry key="JAVA" value="331" />
         </counts>
       </usages-collector>
     </session>
@@ -220,11 +144,56 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T125.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="494">
+              <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T16.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T611.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T159_340.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T141_142.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="32" column="27" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -262,10 +231,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/T100_101.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/bfs/T23.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/bfs/T102.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/bfs/T207.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/bfs/T743.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/tree/T236.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/tree/T104.java" />
@@ -301,7 +266,6 @@
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T81.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T79.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T78.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T74.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dp/T70.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T283.java" />
@@ -313,6 +277,11 @@
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T35.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/T34.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T125.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T611.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T159.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T159_340.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T141_142.java" />
       </list>
     </option>
   </component>
@@ -350,8 +319,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="541" />
-    <option name="y" value="36" />
+    <option name="x" value="540" />
+    <option name="y" value="35" />
     <option name="width" value="1280" />
     <option name="height" value="1050" />
   </component>
@@ -363,6 +332,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -394,23 +364,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
-              <item name="T94_144_145.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="twoPointer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -426,7 +379,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -436,7 +388,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584715471394" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584804019946" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -703,11 +655,12 @@
       <workItem from="1584492437964" duration="19774000" />
       <workItem from="1584578523851" duration="18586000" />
       <workItem from="1584664721219" duration="22457000" />
+      <workItem from="1584777530233" duration="12821000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="594727000" />
+    <option name="totallyTimeSpent" value="607548000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -722,7 +675,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.18431635" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.18699732" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -766,45 +719,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T27.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/dfs/T37.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/dfs/T39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T82_83.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T86.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T61.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -829,13 +743,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/T46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1121">
-          <caret line="92" column="36" selection-start-line="92" selection-start-column="36" selection-end-line="92" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/T46.java" />
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/dfs/T46.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
@@ -885,13 +793,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/binaryCase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/binaryCase.java" />
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/dfs/T90.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -924,13 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="182">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1135,8 +1030,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T125.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="494">
+          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T75.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="41" column="36" selection-start-line="41" selection-start-column="36" selection-end-line="41" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T611.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="17" column="69" selection-start-line="17" selection-start-column="69" selection-end-line="17" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T159_340.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/T2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="53" column="60" lean-forward="true" selection-start-line="53" selection-start-column="60" selection-end-line="53" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T141_142.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="27" />
         </state>
       </provider>
     </entry>
