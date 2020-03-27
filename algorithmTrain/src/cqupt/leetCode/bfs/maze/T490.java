@@ -5,7 +5,7 @@ import java.util.LinkedList;
 /**
  * @author Liyi
  * @create 2020-03-22 15:05
- * 迷宫问题---bfs
+ * 迷宫问题---bfs---判断有无通路
  */
 public class T490 {
 
@@ -37,10 +37,7 @@ public class T490 {
                 j -= dj[d];// 回退到碰壁前的位置,表示当前停留位置
                 if (visited[i][j] == 0) {// 当前停留位置未被访问过
                     visited[i][j] = 1;
-                    int[] curPos = new int[2];
-                    curPos[0] = i;
-                    curPos[1] = j;
-                    queue.addLast(curPos);
+                    queue.addLast(new int[]{i, j});
                 }
             }
         }
