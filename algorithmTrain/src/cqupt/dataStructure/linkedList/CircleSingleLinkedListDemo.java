@@ -11,7 +11,7 @@ public class CircleSingleLinkedListDemo {
         circleSingleLinkedList.add(5);
         circleSingleLinkedList.showBoy();
         // 调用这个方法时候一定要注意 参数nums是要提前传进去的 不然没有那么多节点
-        circleSingleLinkedList.jesopfu(1,2,5);
+        circleSingleLinkedList.jesopfu(1,3,5);
     }
 }
 
@@ -57,7 +57,7 @@ class CircleSingleLinkedList {
         if (k < 1 || k > nums || first == null)
             return;
         Boy helper = first;// 辅助指针
-        // 先将helper知道最后一个节点  为的是与first一起始终构成环
+        // 先将helper指到最后一个节点  为的是与first一起始终构成环
         while (helper.getNext() != first)
             helper = helper.getNext();
 /*        while (true) {
