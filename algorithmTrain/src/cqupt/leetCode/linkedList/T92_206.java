@@ -1,5 +1,7 @@
 package cqupt.leetCode.linkedList;
 
+import java.util.Stack;
+
 /**
  * @author Liyi
  * @create 2020-03-14 10:19
@@ -49,6 +51,30 @@ public class T92_206 {
         return pre;
     }
 
+    /**
+     * 简单的反转链表 ---stack
+     * 不能向stack中直接存listNode,因为会造成链表的死循环，结点一直有next指针指向，而是要把val存入stack
+     * @param head
+     * @return
+     */
+    public ListNode reverseList(ListNode head) {
+        if (head == null || head.next == null)
+            return head;
+        Stack<Integer> stack = new Stack<>();
+        while (head != null) {
+            stack.push(head.val);
+            head = head.next;
+        }
+        ListNode dummy = new ListNode(0);
+        ListNode cur = dummy;
+        while (!stack.empty()) {
+            int curNum = stack.pop();
+            ListNode newNode = new ListNode(curNum);
+            cur.next = newNode;
+            cur = cur.next;
+        }
+        return dummy.next;
+    }
     /**
      * 思路：不断让mNode接在nNode后面  直到mNode和nNode重合
      * @param head

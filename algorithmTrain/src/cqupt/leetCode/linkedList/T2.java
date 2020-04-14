@@ -3,7 +3,7 @@ package cqupt.leetCode.linkedList;
 /**
  * @author Liyi
  * @create 2020-02-25 10:55
- * T2 两数相加
+ * T2 两数相加---链表尾部对应高位
  */
 public class T2 {
 
