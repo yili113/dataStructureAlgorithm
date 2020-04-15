@@ -7,7 +7,7 @@ import java.util.LinkedList;
  * @create 2020-03-29 22:52
  * 地图分析---bfs
  */
-public class T1162 {
+public class T1162_mapAnalyze {
     /**
      * 把所有的陆地全部加进队列，然后将队列中的陆地同时向外扩散，(比如说第一次扩散到的海洋都是距离陆地为一个单位的海洋)
      * 最后扩散到的海洋肯定就是离所有陆地最远的海洋
