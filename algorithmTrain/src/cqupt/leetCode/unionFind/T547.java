@@ -48,7 +48,7 @@ public class T547 {
         int f2 = find(j);
 //        father[f1] = f2;//将f1所在群体的代表置为f2  两个群体共用一个代表--实现合并
         if (ranks[f1] == ranks[f2]) {// 两个群体的秩相同，谁挂在谁下面都无所谓
-            father[f1] = f2;
+            father[f2] = f1;
             ranks[f1] ++;
         }else if (ranks[f1] > ranks[f2]) {// 此时f1的群体大于f2的  f2挂在f1下面  此时f1的rank不会在增加
             father[f2] = f1;

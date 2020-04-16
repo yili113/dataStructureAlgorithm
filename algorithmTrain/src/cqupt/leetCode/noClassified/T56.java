@@ -36,6 +36,7 @@ public class T56 {
             int st = start[index];
             // 判断下一个start和当前的end大小
             while(index < intervals.length - 1 && end[index] >= start[index + 1]) {
+                // end[index] >= start[index + 1]表示end[index]这个结束值是没用的,肯定有重复的,不能构成独立的区间
                 index ++;// 不断得找重叠的区间
             }
             int en = end[index];// 找到了满足的end

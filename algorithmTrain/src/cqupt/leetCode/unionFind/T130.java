@@ -1,5 +1,7 @@
 package cqupt.leetCode.unionFind;
 
+import java.util.Arrays;
+
 /**
  * @author Liyi
  * @create 2020-03-18 11:22
@@ -7,13 +9,13 @@ package cqupt.leetCode.unionFind;
  * 多个if+continue跟if-elseif-else效果一样
  */
 public class T130 {
-    static int[] father;
+    private static int[] father;
     public void solve(char[][] board) {
-        int m = board.length;
-        int n = board[0].length;
-        if (m == 0 || n == 0) {
+        if (board.length == 0 || board[0].length == 0) {
             return;
         }
+        int m = board.length;
+        int n = board[0].length;
         father = new int[m * n + 1];
         for (int i = 0; i <= m * n; i++) {
             father[i] = i;// m*n的位置放dummy结点 用于与边界上的O组成群体
@@ -42,7 +44,7 @@ public class T130 {
             }
         }
         // 2.将除了dummy群体之外的为O的群体都置为X(这个群体O都是被X包围的)
-        int dummy_father = father[dummy];// dummy的父结点可能被置换掉了
+        dummy_father = father[dummy];// dummy的父结点可能被置换掉了
         for (int i = 0; i < m; i++) {
             for (int j = 0; j < n; j++) {
                 if (board[i][j] == 'X')
@@ -64,5 +66,18 @@ public class T130 {
         while (father[i] != i)
             i = father[i];
         return i;
+    }
+    private static int dummy_father;
+    public static void main(String[] args) {
+//        char[][] board = {{'X','X','X','X'},{'X','O','O','X'},{'X','X','O','X'},{'X','O','X','X'}};
+        char[][] board = {{'O','O','O'},{'O','O','O'},{'O','O','O'}};
+//        char[][] board = {{'X','X','X'},{'X','X','X'},{'X','X','X'}};
+        T130 t130 = new T130();
+        t130.solve(board);
+        for(char[] row : board) {
+            System.out.println(Arrays.toString(row));
+        }
+        System.out.println(dummy_father);
+        System.out.println(Arrays.toString(father));
     }
 }
