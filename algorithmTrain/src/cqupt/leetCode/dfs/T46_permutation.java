@@ -8,7 +8,7 @@ import java.util.*;
  * 全排列
  */
 
-public class T46 {
+public class T46_permutation {
 
 
     /**
@@ -44,10 +44,10 @@ public class T46 {
 
     public static void main(String[] args) {
         int[] nums = {1,1,2,3};
-        T46 t46 = new T46();
-        List<List<Integer>> lists = t46.permute(nums);
-        List<List<Integer>> lists1 = t46.permuteUnique(nums);
-//        List<List<Integer>> lists2 = t46.permuteUnique1(nums);
+        T46_permutation t46Permutation = new T46_permutation();
+        List<List<Integer>> lists = t46Permutation.permute(nums);
+        List<List<Integer>> lists1 = t46Permutation.permuteUnique(nums);
+//        List<List<Integer>> lists2 = t46Permutation.permuteUnique1(nums);
         System.out.println(lists1);
     }
 

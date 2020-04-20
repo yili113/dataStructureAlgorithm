@@ -10,7 +10,7 @@ import java.util.List;
  *
  * TODO
  */
-public class T51 {
+public class T51_nQueue {
 
 
 //    public static List<List<String>> solveNQueens(int n) {

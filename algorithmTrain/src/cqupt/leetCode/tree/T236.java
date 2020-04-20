@@ -31,7 +31,7 @@ public class T236 {
         // 2.看看左右子树
         ResType left = helper(root.left, p, q);
         ResType right = helper(root.right, p, q);
-        // 如果从left或right中找到了lcd,那么久赋给res
+        // 如果从left或right中找到了lcd,那么就赋给res
         if (left.lcd != null) {
             res.lcd = left.lcd;
             return res;

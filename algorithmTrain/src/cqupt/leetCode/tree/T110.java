@@ -24,7 +24,7 @@ public class T110 {
             rt.isBalanced = false;
             return rt;
         }
-        if (Math.abs(left.depth - right.depth) <= 1)
+        if (Math.abs(left.depth - right.depth) <= 1)// 此时左右子树分别都是平衡的,现在需要判断左右子树结合到一起是否平衡
             rt.isBalanced = true;
         else
             rt.isBalanced = false;

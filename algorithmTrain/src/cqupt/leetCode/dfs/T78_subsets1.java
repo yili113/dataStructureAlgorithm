@@ -10,7 +10,7 @@ import java.util.List;
  * 子集  nums中没有重复元素
  *  * 递归+回溯
  */
-public class T78 {
+public class T78_subsets1 {
 
     public List<List<Integer>> subsets(int[] nums) {
         ArrayList<List<Integer>> res = new ArrayList<>();

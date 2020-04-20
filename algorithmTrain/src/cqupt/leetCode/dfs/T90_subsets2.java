@@ -10,7 +10,7 @@ import java.util.List;
  * @create 2020-03-10 9:56
  * 子集2  nums中有重复元素
  */
-public class T90 {
+public class T90_subsets2 {
     /**
      * 遍历每个元素 分两种情况 当前元素是选还是不选
      * @param nums
