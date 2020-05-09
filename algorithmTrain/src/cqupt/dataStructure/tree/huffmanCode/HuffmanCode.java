@@ -29,8 +29,8 @@ public class HuffmanCode {
         System.out.println(new String(oriBytes));*/
 
         // 测试文件压缩
-        /*String srcFile = "g://test.txt";
-        String dstFile = "g://test.zip";
+        /*String srcFile = "g://MyThreadPoolDemo.txt";
+        String dstFile = "g://MyThreadPoolDemo.zip";
         zipFile(srcFile, dstFile);*/
         // 测试文件解压
         String srcFile = "g://test.zip";

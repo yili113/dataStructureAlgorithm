@@ -10,11 +10,11 @@ public class Demo5 {
     boolean running = true;
 //    volatile boolean running = true;// volatile保证了各线程间的可见性
     public void test() {
-        System.out.println("test start");
+        System.out.println("MyThreadPoolDemo start");
         while (running) {
             System.out.println("....");
         }
-        System.out.println("test end");
+        System.out.println("MyThreadPoolDemo end");
     }
 
     public static void main(String[] args) {

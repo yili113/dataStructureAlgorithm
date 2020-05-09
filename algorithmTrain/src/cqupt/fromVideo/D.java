@@ -21,7 +21,7 @@ public class D {
     }
     /*static  {x /= 3;}*/
     public void change(String str, char ch[]) {
-        str = "test success";
+        str = "MyThreadPoolDemo success";
         ch[0] = 'g';
     }
 }
