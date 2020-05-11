@@ -7,19 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/callable/CallableDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/PhantomReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/ReferenceQueueDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/StrongReferenceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/MyThreadPoolDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/Exam4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/Exam5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/fromVideo/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/fromVideo/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/fromVideo/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/fromVideo/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/luban/synchronizedDemo/Demo5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/luban/synchronizedDemo/Demo5.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -101,18 +91,18 @@
     <session id="-1444952574">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="56" />
+          <entry key="project.closed" value="57" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="3" />
           <entry key="project.open.time.15" value="3" />
-          <entry key="project.open.time.16" value="7" />
+          <entry key="project.open.time.16" value="8" />
           <entry key="project.open.time.17" value="7" />
           <entry key="project.open.time.18" value="9" />
           <entry key="project.open.time.19" value="4" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.20" value="2" />
+          <entry key="project.open.time.20" value="3" />
           <entry key="project.open.time.21" value="3" />
           <entry key="project.open.time.22" value="2" />
           <entry key="project.open.time.23" value="2" />
@@ -123,19 +113,19 @@
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="1" />
-          <entry key="project.opened" value="58" />
+          <entry key="project.opened" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="82" />
-          <entry key="java" value="103644" />
+          <entry key="java" value="103680" />
           <entry key="txt" value="41" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="103644" />
+          <entry key="JAVA" value="103680" />
           <entry key="PLAIN_TEXT" value="123" />
         </counts>
       </usages-collector>
@@ -143,14 +133,14 @@
         <counts>
           <entry key="Reference" value="1" />
           <entry key="class" value="5" />
-          <entry key="java" value="567" />
+          <entry key="java" value="569" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="567" />
+          <entry key="JAVA" value="569" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="UML" value="1" />
         </counts>
@@ -161,7 +151,26 @@
     <favorites_list name="algorithmTrain" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/Exam4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/Exam5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -195,8 +204,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/bfs/T366_findBinaryTreeLeafNode.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T46_permutation.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T51_nQueue.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T78_subsets1.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T90_subsets2.java" />
@@ -246,6 +253,8 @@
         <option value="$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/interviewQ/reference/ReferenceQueueDemo.java" />
         <option value="$PROJECT_DIR$/src/cqupt/interviewQ/reference/PhantomReferenceDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/Exam4.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/Exam5.java" />
       </list>
     </option>
   </component>
@@ -282,7 +291,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="160" />
     <option name="y" value="10" />
     <option name="width" value="1400" />
@@ -314,6 +323,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -339,19 +349,10 @@
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
-              <item name="reference" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -360,7 +361,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1588984861973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1589186745750" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="G:/java/jdk/src.zip!/" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -377,6 +378,7 @@
       <recent name="cqupt.luban.single.singleDemo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\仓库\dataStructureAlgorithm\algorithmTrain\src\cqupt\interviewQ" />
       <recent name="E:\仓库\dataStructureAlgorithm\algorithmTrain\src\cqupt\luban" />
       <recent name="E:\仓库\dataStructureAlgorithm\algorithmTrain\src\cqupt\leetCode\bfs" />
       <recent name="D:\IdeaProjects\algorithmTrain\src\cqupt\dataStructure\tree\threaded" />
@@ -395,13 +397,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PhantomReferenceDemo">
-    <configuration name="MyThreadPoolDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.threadPool.MyThreadPoolDemo" />
+  <component name="RunManager" selected="Application.Exam5">
+    <configuration name="Exam4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.Exam4" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.interviewQ.threadPool.*" />
+          <option name="PATTERN" value="cqupt.interviewQ.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.Exam5" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.interviewQ.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -424,19 +439,6 @@
     </configuration>
     <configuration name="ReferenceQueueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.reference.ReferenceQueueDemo" />
-      <module name="algorithmTrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cqupt.interviewQ.reference.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StrongReferenceDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.reference.StrongReferenceDemo" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
@@ -543,19 +545,19 @@
     <list>
       <item itemvalue="Spring Boot.MavendemoApplication" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="Application.MyThreadPoolDemo" />
-      <item itemvalue="Application.StrongReferenceDemo" />
       <item itemvalue="Application.WeakHashMapDemo" />
       <item itemvalue="Application.ReferenceQueueDemo" />
       <item itemvalue="Application.PhantomReferenceDemo" />
+      <item itemvalue="Application.Exam4" />
+      <item itemvalue="Application.Exam5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exam5" />
+        <item itemvalue="Application.Exam4" />
         <item itemvalue="Application.PhantomReferenceDemo" />
         <item itemvalue="Application.ReferenceQueueDemo" />
         <item itemvalue="Application.WeakHashMapDemo" />
-        <item itemvalue="Application.StrongReferenceDemo" />
-        <item itemvalue="Application.MyThreadPoolDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -651,6 +653,8 @@
       <workItem from="1588552456391" duration="13539000" />
       <workItem from="1588642504479" duration="18294000" />
       <workItem from="1588725405235" duration="18535000" />
+      <workItem from="1588984966087" duration="5670000" />
+      <workItem from="1589182474941" duration="2475000" />
     </task>
     <servers />
   </component>
@@ -660,7 +664,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="849546000" />
+    <option name="totallyTimeSpent" value="857691000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -672,9 +676,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.21782842" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" weight="0.22050938" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -683,21 +688,20 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4993573" weight="0.18723404" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30496454" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32765958" />
-      <window_info anchor="bottom" id="Database Changes" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19574468" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50064266" side_tool="true" weight="0.19007093" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.30496454" />
-      <window_info anchor="bottom" id="Problems" order="12" />
-      <window_info anchor="bottom" id="Application Servers" order="13" weight="0.18297872" />
-      <window_info anchor="bottom" id="Spring" order="14" />
-      <window_info anchor="bottom" id="Java Enterprise" order="15" weight="0.3287483" />
-      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.30496454" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.32765958" />
+      <window_info anchor="bottom" id="Database Changes" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.19574468" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50064266" side_tool="true" weight="0.19007093" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.30496454" />
+      <window_info anchor="bottom" id="Problems" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.18297872" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3287483" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -710,6 +714,7 @@
       <window_info anchor="right" id="Maven" order="9" />
       <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.18699732" />
       <window_info anchor="right" x="93" y="93" width="1350" height="638" id="Byte Code Viewer" order="11" type="FLOATING" />
+      <window_info active="true" anchor="right" id="Run" order="12" sideWeight="0.4993573" visible="true" weight="0.25670242" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,13 +724,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/twoPointer/T141_142.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/single/test/SingletonTest4.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -927,9 +925,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="655">
           <caret line="46" column="32" lean-forward="true" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -937,9 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="65" column="26" lean-forward="true" selection-start-line="65" selection-start-column="26" selection-end-line="65" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -947,9 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="36" column="32" lean-forward="true" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -957,9 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1012,13 +998,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/MyThreadPoolDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -1036,7 +1015,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="53.5" y="15.0" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="54.0" y="15.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1044,24 +1023,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/reference/Test01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/reference/Test01.java" />
     <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/MyThreadPoolDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1083,9 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1093,9 +1056,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="268">
           <caret line="30" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1103,9 +1063,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="371">
           <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/Exam4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/Exam5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
