@@ -14,10 +14,10 @@ public class Exam4 {
 		MyData my = new MyData();
 		change(i,str,num,arr,my);
 		System.out.println("i = " + i);// 1
-		System.out.println("str = " + str);
-		System.out.println("num = " + num);
-		System.out.println("arr = " + Arrays.toString(arr));
-		System.out.println("my.a = " + my.a);
+		System.out.println("str = " + str);// hello
+		System.out.println("num = " + num);// 200
+		System.out.println("arr = " + Arrays.toString(arr));// [2,2,3,4,5]
+		System.out.println("my.a = " + my.a);// 11
 	}
 	public static void change(int j, String s, Integer n, int[] a,MyData m){
 		j += 1;

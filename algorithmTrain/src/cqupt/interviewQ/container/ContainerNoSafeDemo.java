@@ -10,10 +10,21 @@ import java.util.concurrent.CopyOnWriteArrayList;
 public class ContainerNoSafeDemo {
 
     public static void main(String[] args) {
-        ArrayListSafe();
+        arrayListUnSafe();
+        arrayListSafe();
     }
 
-    private static void ArrayListSafe() {
+    private static void arrayListUnSafe() {
+        List list = new ArrayList();
+        for (int i = 0; i < 40; i++) {
+            new Thread(() -> {
+                list.add(UUID.randomUUID().toString().substring(0, 8));
+                System.out.println(list);
+            }).start();
+        }
+    }
+
+    private static void arrayListSafe() {
         //        List<Object> list = new Vector<>();
 //        List list = Collections.synchronizedList(new ArrayList<>());
         List list = new CopyOnWriteArrayList();

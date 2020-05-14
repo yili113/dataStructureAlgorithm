@@ -9,8 +9,6 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  * @create 2020-05-04 10:23
  */
 public class ABADemo {
-
-
     static AtomicReference<Integer> atomicReference = new AtomicReference<>(100);
     static AtomicStampedReference<Integer> atomicStampedReference = new AtomicStampedReference<>(100, 1);
     public static void main(String[] args) {

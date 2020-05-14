@@ -28,7 +28,7 @@ public class CountDownLatchDemo {
 
     private static void closeDoor() {
         CountDownLatch cdl = new CountDownLatch(5);
-        for (int i = 1; i <= 5 ; i++) {
+        for (int i = 1; i <= 5 ; i++) {// 模拟的线程数要等于CountDownLatch的构造方法参数
             new Thread(() -> {
                 System.out.println(Thread.currentThread().getName() + "号同学已离开教室");
                 cdl.countDown();// 计数-1

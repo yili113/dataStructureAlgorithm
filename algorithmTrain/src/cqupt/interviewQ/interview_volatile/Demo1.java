@@ -4,6 +4,7 @@ package cqupt.interviewQ.interview_volatile;
  * @author Liyi
  * @create 2020-05-04 8:43
  */
+// 指令可能重排的Demo
 public class Demo1 {
 
     int a = 0;
@@ -16,6 +17,7 @@ public class Demo1 {
     public void method2() {
         if (flag) {
             a = a + 5;// 语句3
+            System.out.println("a : " + a);
         }
     }
 }

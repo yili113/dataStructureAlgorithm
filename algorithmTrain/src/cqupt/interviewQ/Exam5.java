@@ -25,7 +25,7 @@ public class Exam5 {
         obj1.test(10);
         obj1.test(20);
         obj2.test(30);
-        System.out.println(obj1.i + "," + obj1.j + "," + obj1.s);
-        System.out.println(obj2.i + "," + obj2.j + "," + obj2.s);
+        System.out.println(obj1.i + "," + obj1.j + "," + obj1.s);// 3,3,5
+        System.out.println(obj2.i + "," + obj2.j + "," + obj2.s);// 2,2,5
     }
 }
