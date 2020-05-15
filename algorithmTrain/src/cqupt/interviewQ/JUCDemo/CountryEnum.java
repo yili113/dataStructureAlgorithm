@@ -1,4 +1,4 @@
-package cqupt.interviewQ;
+package cqupt.interviewQ.JUCDemo;
 
 /**
  * @author Liyi

@@ -9,7 +9,7 @@ import java.util.WeakHashMap;
  */
 public class WeakHashMapDemo {
     public static void main(String[] args) {
-        myWeakHashMap();
+//        myWeakHashMap();
         myHashMap();
     }
 
@@ -19,7 +19,7 @@ public class WeakHashMapDemo {
         String value = "weakHashMap";
         map.put(key, value);
         System.out.println(map);
-//        key = null;
+        key = null;
         System.out.println(map);
         System.gc();
         System.out.println(map +"\t"+ map.size());

@@ -10,5 +10,6 @@ public class Test {
 		System.out.println("i=" + i);// 4
 		System.out.println("j=" + j);// 1
 		System.out.println("k=" + k);// 11
+		System.out.println(Runtime.getRuntime().availableProcessors());
 	}
 }

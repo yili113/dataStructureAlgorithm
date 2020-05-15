@@ -1,4 +1,4 @@
-package cqupt.interviewQ;
+package cqupt.interviewQ.JUCDemo;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
@@ -7,6 +7,8 @@ import java.util.concurrent.TimeUnit;
  * @author Liyi
  * @create 2020-05-05 15:00
  * Semaphore的锁是可以复用的,有进有出
+ * 多个线程抢多个资源
+ * 模拟6个车抢3个车位
  */
 public class SemaphoreDemo {
     public static void main(String[] args) {
