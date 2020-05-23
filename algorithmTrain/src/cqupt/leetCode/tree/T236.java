@@ -32,17 +32,19 @@ public class T236 {
         ResType left = helper(root.left, p, q);
         ResType right = helper(root.right, p, q);
         // 如果从left或right中找到了lcd,那么就赋给res
-        if (left.lcd != null) {
+        if (left.lcd != null) {// 如果左子结点是p q的公共祖先
             res.lcd = left.lcd;
             return res;
         }
-        if (right.lcd != null) {
+        if (right.lcd != null) {// 如果右子结点是p q的公共祖先
             res.lcd = right.lcd;
             return res;
         }
         // 如果到了这个地方说明 root的左右子树中都没找到lcd
         // 此时就需要判断 p和q是否有
         res.hasP = root == p || left.hasP || right.hasP;
+        // 如果左子结点中包含 p 或者 右子结点中包含p  或者  root本身就是p
+        // 就说明root是包含 p 的
         res.hasQ = root == q || right.hasQ || left.hasQ;
         // 判断p和q是否有了
         if (res.hasP && res.hasQ) {// 说明root是最近的公共祖先
