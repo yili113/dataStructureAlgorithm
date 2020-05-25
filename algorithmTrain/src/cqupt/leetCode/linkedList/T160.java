@@ -13,6 +13,9 @@ package cqupt.leetCode.linkedList;
  * 如果c不存在就是  a+b = b+a
  */
 public class T160 {
+    // 画图理解
+    // 假如两条链表有交点,最终l1=l2时候就是在那个交点
+    // 如果没有交点,最终l1和l2都会走到null  这种情况也是l2=l1
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode res = null;
         if (headA == null || headB == null)
