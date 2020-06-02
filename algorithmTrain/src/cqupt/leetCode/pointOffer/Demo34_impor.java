@@ -27,12 +27,12 @@ public class Demo34_impor {
             return;
         sum -= root.val;
         path.add(root.val);
-        if (sum == 0 && root.left == null && root.right == null) {
+        if (sum == 0 && root.left == null && root.right == null) {// 路径定义是从根结点到叶子结点
             res.add(new LinkedList<>(path));
         }
         recur1(root.left, sum);
         recur1(root.right, sum);
-        path.removeLast();
+        path.removeLast();// 这行对应的path.add的回溯,这个回溯是针对当前结点的,不是针对其左结点或者右结点
     }
 
     private void helper(TreeNode root, ArrayList<List<Integer>> res, ArrayList<Integer> curList, int sum) {
