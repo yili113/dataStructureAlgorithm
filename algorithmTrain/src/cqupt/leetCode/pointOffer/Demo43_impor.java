@@ -4,7 +4,7 @@ package cqupt.leetCode.pointOffer;
  * @author yiLi
  * @create 2020-06-02 16:23
  */
-public class Demo43 {
+public class Demo43_impor {
     // 超过时间限制
     public int countDigitOne1(int n) {
         if (n <= 0)
