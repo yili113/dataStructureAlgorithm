@@ -9,7 +9,7 @@ import java.util.concurrent.TimeUnit;
  */
 public class Demo2 {
     public static void main(String[] args) {
-//        seeIsOk();
+        seeIsOk();
         notAtom();
     }
 
@@ -54,7 +54,7 @@ public class Demo2 {
     }
 }
 class MyData{
-    volatile int number = 0;
+    volatile static int number = 0;
     public void addTo60() {
         this.number = 60;
     }
