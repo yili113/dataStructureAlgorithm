@@ -7,12 +7,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/lock/TestLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_1_todo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/DivTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/ScheduledExecutorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/TestThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_2_todo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_2_impor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo60.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/interviewQ/interview_volatile/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/interview_volatile/Demo2.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -68,19 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo52.java">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_1_todo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+            <state relative-caret-position="504">
+              <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,19 +89,44 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_2.java">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="651">
-              <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+            <state relative-caret-position="546">
+              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo54.java">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo60.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="403">
+              <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+              <folding>
+                <element signature="e#1054#1055#0" expanded="true" />
+                <element signature="e#1071#1072#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_2_impor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/stack/MinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -140,22 +165,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo30.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo31.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo31_impor.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo32.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo32_1.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo32_2.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo32_3.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo33.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo33_impor.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo34.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo35.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo36.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo34_impor.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo37_impor.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/tree/SerialTree.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/dfs/T46_permutation.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo38.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo39.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo40.java" />
@@ -191,6 +200,22 @@
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_2.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo54.java" />
         <option value="$PROJECT_DIR$/src/cqupt/interviewQ/interview_volatile/Demo2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_1.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/ScheduledExecutorDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/DivTask.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/TestThreadPool.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/TraceThreadPoolExecutor.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_1.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_1.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_1.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_2.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_2_impor.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo60.java" />
       </list>
     </option>
   </component>
@@ -222,10 +247,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="179" />
-    <option name="y" value="59" />
-    <option name="width" value="1659" />
-    <option name="height" value="961" />
+    <option name="x" value="193" />
+    <option name="y" value="85" />
+    <option name="width" value="1462" />
+    <option name="height" value="949" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -282,6 +307,39 @@
               <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
+              <item name="lock" type="462c0819:PsiDirectoryNode" />
+              <item name="ConditionLockDemo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
+              <item name="single" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
+              <item name="threadPool" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -290,7 +348,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="binaryCase" type="462c0819:PsiDirectoryNode" />
+              <item name="bitOperation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
@@ -306,7 +364,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
@@ -369,22 +427,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo2">
-    <configuration name="Demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.interview_volatile.Demo2" />
-      <module name="algorithmTrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cqupt.interviewQ.interview_volatile.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo51_impor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Demo51_impor" />
+  <component name="RunManager" selected="Application.Demo60">
+    <configuration name="Demo56_2_todo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Demo56_2_todo" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
@@ -396,21 +441,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SemaphoreDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.JUCDemo.SemaphoreDemo" />
-      <module name="algorithmTrain" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cqupt.interviewQ.JUCDemo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Test" />
+    <configuration name="Demo57_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Demo57_2" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
@@ -422,12 +454,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestLock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.lock.TestLock" />
+    <configuration name="Demo58_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Demo58_1" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.interviewQ.lock.*" />
+          <option name="PATTERN" value="cqupt.leetCode.pointOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOffer.Demo60" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.leetCode.pointOffer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestThreadPool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.interviewQ.threadPool.TestThreadPool" />
+      <module name="algorithmTrain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cqupt.interviewQ.threadPool.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -508,20 +566,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Demo51_impor" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="Application.TestLock" />
-      <item itemvalue="Application.SemaphoreDemo" />
-      <item itemvalue="Application.Demo2" />
+      <item itemvalue="Application.TestThreadPool" />
+      <item itemvalue="Application.Demo56_2_todo" />
+      <item itemvalue="Application.Demo57_2" />
+      <item itemvalue="Application.Demo58_1" />
+      <item itemvalue="Application.Demo60" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo2" />
-        <item itemvalue="Application.SemaphoreDemo" />
-        <item itemvalue="Application.TestLock" />
-        <item itemvalue="Application.Demo51_impor" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Demo60" />
+        <item itemvalue="Application.Demo58_1" />
+        <item itemvalue="Application.Demo57_2" />
+        <item itemvalue="Application.Demo56_2_todo" />
+        <item itemvalue="Application.TestThreadPool" />
       </list>
     </recent_temporary>
   </component>
@@ -633,7 +691,7 @@
       <workItem from="1591147924202" duration="776000" />
       <workItem from="1591151715717" duration="19617000" />
       <workItem from="1591265152000" duration="440000" />
-      <workItem from="1591271119485" duration="15862000" />
+      <workItem from="1591271119485" duration="47629000" />
     </task>
     <servers />
   </component>
@@ -643,7 +701,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1179854000" />
+    <option name="totallyTimeSpent" value="1211621000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -655,10 +713,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="179" y="59" width="1659" height="961" extended-state="0" />
+    <frame x="248" y="83" width="1462" height="949" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.19449656" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.2168331" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -667,20 +725,21 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.27131784" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.27106228" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3272727" />
       <window_info anchor="bottom" id="Database Changes" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.19574468" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50064266" side_tool="true" weight="0.19007093" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.37984496" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32883435" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3791411" />
       <window_info anchor="bottom" id="Problems" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.18297872" />
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3287483" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="16" sideWeight="0.4993573" visible="true" weight="0.21226993" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -693,7 +752,6 @@
       <window_info anchor="right" id="Maven" order="9" />
       <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.13432837" />
       <window_info anchor="right" x="93" y="93" width="1350" height="638" id="Byte Code Viewer" order="11" type="FLOATING" />
-      <window_info anchor="right" id="Run" order="12" sideWeight="0.4993573" visible="true" weight="0.117573485" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" weight="0.194051" />
@@ -738,187 +796,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo41_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo42.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="45" selection-start-line="9" selection-start-column="45" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo39_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo43_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="34" column="60" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="60" />
-          <folding>
-            <element signature="e#512#513#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/math/BigInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="3526" column="13" lean-forward="true" selection-start-line="3526" selection-start-column="13" selection-end-line="3526" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5606">
-          <caret line="75" column="19" selection-start-line="75" selection-start-column="19" selection-end-line="75" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/StringBuffer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="96" column="20" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="1161" column="28" lean-forward="true" selection-start-line="1161" selection-start-column="28" selection-end-line="1161" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/bitOperation/T56Interview.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-495">
-          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="487" selection-start-line="487" selection-end-line="487" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="15" column="24" lean-forward="true" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3633">
-          <caret line="175" column="36" selection-start-line="175" selection-start-column="36" selection-end-line="175" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo44_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo45_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo47.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="45" selection-start-line="8" selection-start-column="45" selection-end-line="8" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo48_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" column="38" selection-start-line="50" selection-start-column="38" selection-end-line="50" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo49_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo50.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo51_impor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/practiceLinked/Demo18.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/practiceLinked/Demo17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/practiceLinked/Demo16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/practiceLinked/Demo15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/practiceLinked/Demo14.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1069,16 +946,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_1_todo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/tree/NumTrees.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -1089,7 +956,7 @@
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="651">
-          <caret line="31" column="28" lean-forward="true" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
+          <caret line="31" column="28" selection-start-line="31" selection-start-column="28" selection-end-line="31" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -1113,8 +980,229 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo54.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="37" column="18" selection-start-line="37" selection-start-column="18" selection-end-line="37" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/tree/GetMaxLen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/lock/ConditionLockDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/ScheduledExecutorDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <caret line="21" column="17" lean-forward="true" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/DivTask.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/TraceThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#938#939#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/threadPool/TestThreadPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="47" lean-forward="true" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/tree/IsBalanced.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo55_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="50" lean-forward="true" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/bitOperation/T56Interview.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="41" column="33" lean-forward="true" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo53_1_todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="9" lean-forward="true" selection-start-line="40" selection-start-column="9" selection-end-line="40" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo56_2_todo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#694#695#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#6283#6284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
+          <folding>
+            <element signature="e#76090#76091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6">
+          <caret line="2353" column="35" lean-forward="true" selection-start-line="2353" selection-start-column="35" selection-end-line="2353" selection-end-column="35" />
+          <folding>
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/stack/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo58_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="16" lean-forward="true" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo46.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo57_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="546">
+          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo59_2_impor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="41" column="28" lean-forward="true" selection-start-line="41" selection-start-column="28" selection-end-line="41" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo60.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="74" column="46" lean-forward="true" selection-start-line="74" selection-start-column="46" selection-end-line="74" selection-end-column="46" />
+          <folding>
+            <element signature="e#1054#1055#0" expanded="true" />
+            <element signature="e#1071#1072#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
