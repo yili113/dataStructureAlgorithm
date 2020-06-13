@@ -6,8 +6,8 @@ import java.util.HashMap;
  * @author yiLi
  * @create 2020-06-05 8:30
  */
-public class Demo53_1_todo {
-    // todo
+public class Demo53_1 {
+    // 二分法
     public int search1(int[] nums, int target) {
         if (nums == null || nums.length == 0)
             return 0;
@@ -40,7 +40,33 @@ public class Demo53_1_todo {
         }
         return count;
     }
-    // 哈希表进行记录
+    // 排序好的数组 只需要找到target重复数字的左右边界即可
+    public int search2(int[] nums, int target) {
+        // 找右边界
+        int i = 0;
+        int j = nums.length - 1;
+        while (i <= j) {// 这种出口条件出来之后  i在j右边一个位置
+            int mid = (j - i) / 2 + i;
+            if (nums[mid] <= target)
+                i = mid + 1;
+            else j = mid - 1;
+        }
+        int right = i;
+        if (j >= 0 && nums[j] != target)
+            return 0;
+        i = 0;
+        j = nums.length - 1;
+        while (i <= j) {
+            int mid = (j - i) / 2 + i;
+            if (nums[mid] < target)
+                i = mid + 1;
+            else j = mid - 1;
+        }
+        int left = j;
+        return right - left - 1;// 找到的left是最左边那个目标数的左边一个位置   right是最右边目标数的右边一个位置
+    }
+
+        // 哈希表进行记录
     public static int search(int[] nums, int target) {
         if (nums == null || nums.length == 0)
             return 0;
