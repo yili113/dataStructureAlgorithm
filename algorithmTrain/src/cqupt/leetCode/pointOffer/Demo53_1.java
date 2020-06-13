@@ -1,7 +1,6 @@
 package cqupt.leetCode.pointOffer;
 
 import java.util.HashMap;
-import java.util.Map;
 
 /**
  * @author yiLi
@@ -41,7 +40,8 @@ public class Demo53_1_todo {
         }
         return count;
     }
-    public int search(int[] nums, int target) {
+    // 哈希表进行记录
+    public static int search(int[] nums, int target) {
         if (nums == null || nums.length == 0)
             return 0;
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -49,12 +49,19 @@ public class Demo53_1_todo {
             if (!map.containsKey(nums[i]))
                 map.put(nums[i], 1);
             else
-                map.put(nums[i], map.get(nums[i] + 1));
+                map.put(nums[i], map.get(nums[i]) + 1);
         }
-        for(Map.Entry entry : map.entrySet()) {
-            if ((int)entry.getKey() == target)
-                return (int) entry.getValue();
+        for (Integer num : map.keySet()) {
+            Integer values = map.get(target);
+            if (values == null)
+                return 0;
+            return values;
         }
         return 0;
+    }
+
+    public static void main(String[] args) {
+        // nums = [5,7,7,8,8,10], target = 8
+        System.out.println(search(new int[]{5,7,7,8,8,10}, 8));
     }
 }
