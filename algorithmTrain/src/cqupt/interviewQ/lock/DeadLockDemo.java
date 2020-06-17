@@ -8,15 +8,27 @@ import java.util.concurrent.TimeUnit;
  */
 public class DeadLockDemo {
     public static void main(String[] args) {
-        new Thread(new HoldLockThread("A锁", "B锁"), "AAA").start();
-        new Thread(new HoldLockThread("B锁", "A锁"), "BBB").start();
+        // case1
+//        new Thread(new HoldLockThread("A锁", "B锁"), "AAA").start();
+//        new Thread(new HoldLockThread("B锁", "A锁"), "BBB").start();// 由于String的不可变行,会产生死锁
+        
+        // case2
+//        new Thread(new HoldLockThread(new Student(1,"A"), new Student(2,"B"))).start();// 这种方式不会产生死锁
+//        new Thread(new HoldLockThread(new Student(2,"B"), new Student(1,"A"))).start();// 因为这相当于创建了四个student实例
+
+        // case3 使用相同的实例会产生死锁
+        Student a = new Student(1, "A");
+        Student b = new Student(2, "B");
+        new Thread(new HoldLockThread(a,b)).start();
+        new Thread(new HoldLockThread(b, a)).start();
+
     }
 }
 class HoldLockThread implements Runnable {
-    private String lockA;
-    private String lockB;
+    private Student lockA;
+    private Student lockB;
 
-    public HoldLockThread(String lockA, String lockB) {
+    public HoldLockThread(Student lockA, Student lockB) {
         this.lockA = lockA;
         this.lockB = lockB;
     }
@@ -34,6 +46,15 @@ class HoldLockThread implements Runnable {
                 System.out.println(Thread.currentThread().getName() + " 已经拿到了" + lockB + "尝试去拿" + lockA);
             }
         }
+    }
+}
+class Student {
+    private int id;
+    private String name;
+
+    public Student(int id, String name) {
+        this.id = id;
+        this.name = name;
     }
 }
 
