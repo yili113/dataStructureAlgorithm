@@ -8,7 +8,7 @@ import java.util.Stack;
  * @create 2020-06-17 16:25
  * 下一个更大的元素  不是循环数组
  */
-public class Demo {
+public class Demo1 {
     public static int[] nextGreaterElements(int[] nums) {
         if (nums == null || nums.length == 0)
             return new int[]{};
