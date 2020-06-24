@@ -10,6 +10,8 @@ public class Test1 {
     public static void main(String[] args) {
         int b = 2;
         System.out.println(a + b);
+        ClassLoader classLoader = Test1.class.getClassLoader().getParent().getParent();
+        System.out.println(classLoader);
     }
 
 }
