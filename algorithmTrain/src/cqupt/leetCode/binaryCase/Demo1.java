@@ -29,14 +29,28 @@ public class Demo1 {
 ////            return right;
         return -1;
     }
+    public static int findTarget1(int[] nums, int target) {
+        int left = 0;
+        int right = nums.length;
+        while (left < right) {
+            int mid = left + (right - left) / 2;
+            if (nums[mid] > target)// target在mid左侧
+                right = mid;
+            else if (nums[mid] < target)
+                left = mid + 1;
+            else if (nums[mid] == target)
+                return mid;
+        }
+        return -1;
+    }
 
     public static void main(String[] args) {
-        int[] nums = {2, 3, 4, 6, 8, 8, 8, 9, 9, 9, 9, 9};
+        int[] nums = {2, 3, 4, 6, 8, 8, 8, 9};
         int target = 9;
-        System.out.println(findTargetLeft(nums, target));
-        System.out.println(findTargetLeft1(nums, target));
-        System.out.println(findTargetRight(nums, target));
-        System.out.println(findTargetRight1(nums, target));
+        System.out.println(findTarget1(nums, target));
+//        System.out.println(findTargetLeft1(nums, target));
+//        System.out.println(findTargetRight(nums, target));
+//        System.out.println(findTargetRight1(nums, target));
 
     }
 
