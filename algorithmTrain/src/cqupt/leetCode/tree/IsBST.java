@@ -28,4 +28,25 @@ public class IsBST {
         }
         return res;
     }
+    private int pre;
+    public boolean isValidBST(TreeNode root) {
+        pre = Integer.MIN_VALUE;
+        return dfs(root);
+    }
+    private boolean dfs(TreeNode node) {
+        if (node == null)
+            return true;
+        if (node.left != null)
+            dfs(node.left);
+        if (pre == Integer.MIN_VALUE) {
+            pre = node.val;
+        }else {
+            if (node.val < pre)
+                return false;
+            pre = node.val;
+        }
+        if (node.right != null)
+            dfs(node.right);
+        return true;
+    }
 }

@@ -10,7 +10,7 @@ public class Demo33 {
             return false;
         return helper(postorder, 0, postorder.length - 1);
     }
-    // 未成功
+    // 未成功  此种方法在helper2得到改进
     private static boolean helper(int[] postorder, int l, int r) {
         if (l >= r)
             return true;
@@ -30,6 +30,24 @@ public class Demo33 {
                 return false;
         }
         return helper(postorder, l, index - 1) && helper(postorder, index, r - 1);
+    }
+
+    private static boolean helper2(int[] postorder, int l, int r) {
+        if (l >= r)
+            return true;
+        int less = -1;
+        int more = r;
+        for (int i = l; i < r; i++) {// 这个地方会把l--r左闭右开区间上元素都遍历完,一直在更新less
+            if (postorder[i] < postorder[r])
+                less = i;
+            else
+                more = more == r ? i : more;
+        }
+        if (less == -1 || more == r)// 解决了左右子树只有一种的情况,less=-1表明只有比根结点大的结点,more=r只有小的
+            return helper2(postorder,l, r - 1);
+        if (less != more - 1)// 像 1,6,3,2,5  less指向3  more指向6   返回false
+            return false;
+        return helper2(postorder,l,less) && helper2(postorder,more,r - 1);
     }
 
     public static void main(String[] args) {

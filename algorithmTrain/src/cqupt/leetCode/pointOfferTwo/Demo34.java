@@ -26,7 +26,7 @@ public class Demo34 {
         curList.add(root.val);
         if (sum == 0 && root.left == null && root.right == null) {
             RES.add(new ArrayList<>(curList));
-            return;
+//            return;// 这个地方的return不能要,如果加上了return的话就会少移除一个数,并且当前层中的sum还没变,就会导致最终的结果多一个元素
         }
         helper(root.left, sum, curList);
         helper(root.right, sum, curList);
