@@ -7,10 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/InsertSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/InsertSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/InsertSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo44.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo44.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -98,8 +97,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="473">
-              <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+            <state relative-caret-position="105">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -107,12 +106,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo44.java">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/InsertSort.java">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#171#172#0" expanded="true" />
-              </folding>
+              <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -352,6 +356,15 @@
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="pointOfferTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="pointOfferTwo" type="462c0819:PsiDirectoryNode" />
               <item name="Demo35.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
@@ -420,7 +433,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeSort">
+  <component name="RunManager" selected="Application.InsertSort">
     <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOfferTwo.sort.BubbleSort" />
       <module name="algorithmTrain" />
@@ -434,12 +447,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo40" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOfferTwo.Demo40" />
+    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOfferTwo.sort.InsertSort" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.leetCode.pointOfferTwo.*" />
+          <option name="PATTERN" value="cqupt.leetCode.pointOfferTwo.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -559,20 +572,20 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Demo40" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
       <item itemvalue="Application.BubbleSort" />
       <item itemvalue="Application.SelectSort" />
       <item itemvalue="Application.MergeSort" />
+      <item itemvalue="Application.InsertSort" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.MergeSort" />
         <item itemvalue="Application.SelectSort" />
         <item itemvalue="Application.BubbleSort" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Demo40" />
       </list>
     </recent_temporary>
   </component>
@@ -687,7 +700,7 @@
       <workItem from="1591271119485" duration="49168000" />
       <workItem from="1591922500706" duration="78562000" />
       <workItem from="1592704451762" duration="99684000" />
-      <workItem from="1593337529263" duration="11404000" />
+      <workItem from="1593337529263" duration="14837000" />
     </task>
     <servers />
   </component>
@@ -697,7 +710,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1402810000" />
+    <option name="totallyTimeSpent" value="1406243000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -712,7 +725,7 @@
     <frame x="232" y="0" width="1472" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.22521247" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.22521247" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -721,7 +734,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.20787746" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.20700985" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3272727" />
@@ -735,7 +748,7 @@
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.3287483" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.4993573" visible="true" weight="0.24315444" />
+      <window_info active="true" anchor="bottom" id="Run" order="16" sideWeight="0.4993573" visible="true" weight="0.22015335" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -792,13 +805,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo32_1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1139,31 +1145,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/SelectSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="44" selection-start-line="44" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/taluotaluotu/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
           <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6300">
-          <caret line="302" column="31" lean-forward="true" selection-start-line="302" selection-start-column="31" selection-end-line="302" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/InsertSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="8" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1176,19 +1161,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="473">
-          <caret line="42" column="42" lean-forward="true" selection-start-line="42" selection-start-column="42" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="105">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/SelectSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="44" selection-start-line="44" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="1958" selection-start-line="1958" selection-end-line="1958" />
+          <folding>
+            <element signature="e#76090#76091#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/dataStructure/sort/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="303" column="13" lean-forward="true" selection-start-line="303" selection-start-column="13" selection-end-line="303" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/sort/InsertSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="32" column="44" lean-forward="true" selection-start-line="32" selection-start-column="44" selection-end-line="32" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo44.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#171#172#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
         </state>
       </provider>
     </entry>
