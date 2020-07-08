@@ -1,4 +1,4 @@
-package cqupt.interviewQ;
+package cqupt.interviewQ.ProCon;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

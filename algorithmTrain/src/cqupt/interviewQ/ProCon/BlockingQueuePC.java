@@ -1,4 +1,4 @@
-package cqupt.interviewQ;
+package cqupt.interviewQ.ProCon;
 
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.AtomicInteger;

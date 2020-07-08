@@ -17,7 +17,7 @@ package cqupt.interviewQ;
  *
  * 这里i=test()执行的是子类重写的test()方法
  */
-public class Father{
+class Father{
 	private int i = test();
 	private static int j = method();
 	
