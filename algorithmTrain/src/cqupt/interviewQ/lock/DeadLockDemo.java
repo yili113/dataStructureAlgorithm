@@ -19,9 +19,8 @@ public class DeadLockDemo {
         // case3 使用相同的实例会产生死锁
         Student a = new Student(1, "A");
         Student b = new Student(2, "B");
-        new Thread(new HoldLockThread(a,b)).start();
+        new Thread(new HoldLockThread(a, b)).start();
         new Thread(new HoldLockThread(b, a)).start();
-
     }
 }
 class HoldLockThread implements Runnable {
@@ -46,15 +45,6 @@ class HoldLockThread implements Runnable {
                 System.out.println(Thread.currentThread().getName() + " 已经拿到了" + lockB + "尝试去拿" + lockA);
             }
         }
-    }
-}
-class Student {
-    private int id;
-    private String name;
-
-    public Student(int id, String name) {
-        this.id = id;
-        this.name = name;
     }
 }
 
