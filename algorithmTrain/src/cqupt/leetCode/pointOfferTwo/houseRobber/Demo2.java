@@ -13,7 +13,9 @@ public class Demo2 {
             return nums[0];
         if (nums.length == 2)
             return Math.max(nums[0], nums[1]);
-        return Math.max(robberRange(nums, 0, nums.length - 1), robberRange(nums, 1, nums.length - 2));
+        // 因为首尾不能同时选
+        // 1.选首不选尾 2.选尾不选首
+        return Math.max(robberRange(nums, 0, nums.length - 2), robberRange(nums, 1, nums.length - 1));
     }
 
     private int robberRange(int[] nums, int start, int end) {
@@ -22,8 +24,8 @@ public class Demo2 {
         int preP = 0;
         for (int i = start; i <= end; i++) {
             cur = Math.max(nums[i] + preP, pre);
+            preP = pre;// 这二者顺序不能反  不然pre会被覆盖
             pre = cur;
-            preP = pre;
         }
         return cur;
     }

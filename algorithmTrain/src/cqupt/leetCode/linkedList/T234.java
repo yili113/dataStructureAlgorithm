@@ -38,20 +38,23 @@ public class T234 {
         }
         return pre;
     }
-
-    public static void main(String[] args) {
-        ListNode listNode1 = new ListNode(1);
-        ListNode listNode2 = new ListNode(1);
-        ListNode listNode3 = new ListNode(2);
-        ListNode listNode4  = new ListNode(1);
-        T19 t19 = new T19();
-        t19.add(listNode1, listNode2);
-        t19.add(listNode1, listNode3);
-        t19.add(listNode1, listNode4);
-        t19.show(listNode1);
-        System.out.println("--------------------");
-        ListNode reHead = reverse(listNode1);
-        t19.show(reHead);
-        System.out.println(isPalindrome(listNode1));
+    // 根据树结构进行判断回文链表
+    public boolean isPalindrome1(ListNode head) {
+        left = head;
+        return reverse1(head);
     }
+
+    private boolean reverse1(ListNode right) {
+        if (right == null)
+            return true;
+        // 后序遍历
+        boolean b = reverse1(right.next);// 此处b为false就说明当前结点的next结点是true的,后序遍历
+        // 下面写后序遍历代码
+        b = b && (left.val == right.val);
+        left = left.next;
+        return b;
+    }
+
+    private ListNode left;
+
 }
