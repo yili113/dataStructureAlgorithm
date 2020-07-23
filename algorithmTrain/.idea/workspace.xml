@@ -7,11 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/TargetObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/T23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/hashMapTest/HashMapTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/mavendemo/target/" />
@@ -67,51 +67,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/TreePrint.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/tree/Print.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/JUCDemo/CountryEnum.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="10" column="49" selection-start-line="10" selection-start-column="43" selection-end-line="10" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-              <folding>
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#297#298#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#386#387#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/Son.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="560">
@@ -123,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+            <state relative-caret-position="483">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,19 +88,45 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/hashMapTest/HashMapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="445">
-              <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+            <state relative-caret-position="538">
+              <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo22.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/T23.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo25.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="212">
-              <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -169,6 +150,8 @@
       <find>COUNT</find>
       <find>co</find>
       <find>put</find>
+      <find>length</find>
+      <find>grow</find>
     </findStrings>
     <replaceStrings>
       <replace>matrix</replace>
@@ -184,12 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Solution.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/houseRobber/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/houseRobber/ArrayBlockingQueueTest.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/houseRobber/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/houseRobber/Demo3.java" />
-        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/subsequence/Demo674.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/subsequence/Demo300.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/subsequence/Demo1143.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/subsequence/Demo516.java" />
@@ -235,6 +212,12 @@
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/TargetObject.java" />
         <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/Test.java" />
         <option value="$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/hashMapTest/HashMapTEST.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/hashMapTest/HashMapTest.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo18.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo22.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/T23.java" />
+        <option value="$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo25.java" />
       </list>
     </option>
   </component>
@@ -266,7 +249,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="406" />
+    <option name="x" value="203" />
     <option name="width" value="1459" />
     <option name="height" value="1047" />
   </component>
@@ -376,7 +359,41 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="cqupt" type="462c0819:PsiDirectoryNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="tree" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedList" type="462c0819:PsiDirectoryNode" />
+              <item name="reverse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="pointOfferThree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="pointOfferTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
+              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="pointOfferTwo" type="462c0819:PsiDirectoryNode" />
+              <item name="Demo41.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="algorithmTrain" type="b2602c69:ProjectViewProjectNode" />
@@ -438,13 +455,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WeakHashMapDemo">
-    <configuration name="Demo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOfferThree.Demo3" />
+  <component name="RunManager" selected="Application.HashMapTest">
+    <configuration name="HashMapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cqupt.leetCode.pointOfferThree.hashMapTest.HashMapTest" />
       <module name="algorithmTrain" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cqupt.leetCode.pointOfferThree.*" />
+          <option name="PATTERN" value="cqupt.leetCode.pointOfferThree.hashMapTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -578,19 +595,19 @@
     </configuration>
     <list>
       <item itemvalue="Tomcat Server.Tomcat 8.5.31" />
-      <item itemvalue="Application.Demo3" />
       <item itemvalue="Application.Singleton4" />
       <item itemvalue="Application.Son" />
       <item itemvalue="Application.Test (1)" />
       <item itemvalue="Application.WeakHashMapDemo" />
+      <item itemvalue="Application.HashMapTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapTest" />
         <item itemvalue="Application.WeakHashMapDemo" />
         <item itemvalue="Application.Test (1)" />
         <item itemvalue="Application.Son" />
         <item itemvalue="Application.Singleton4" />
-        <item itemvalue="Application.Demo3" />
       </list>
     </recent_temporary>
   </component>
@@ -707,7 +724,7 @@
       <workItem from="1592704451762" duration="99684000" />
       <workItem from="1593337529263" duration="36955000" />
       <workItem from="1593650277428" duration="130308000" />
-      <workItem from="1595044334421" duration="34438000" />
+      <workItem from="1595044334421" duration="48298000" />
     </task>
     <servers />
   </component>
@@ -717,7 +734,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1593107000" />
+    <option name="totallyTimeSpent" value="1606967000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -729,9 +746,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="406" y="0" width="1459" height="1047" extended-state="0" />
+    <frame x="203" y="0" width="1459" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.1908506" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49815497" visible="true" weight="0.18227305" />
       <window_info id="Image Layers" order="1" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -754,7 +772,7 @@
       <window_info anchor="bottom" id="Spring" order="13" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32858709" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.4993573" visible="true" weight="0.27382258" />
+      <window_info anchor="bottom" id="Run" order="16" sideWeight="0.4993573" visible="true" weight="0.17196056" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -765,7 +783,7 @@
       <window_info anchor="right" id="Database" order="7" weight="0.32969153" />
       <window_info anchor="right" id="Maven Projects" order="8" weight="0.21648793" />
       <window_info anchor="right" id="Maven" order="9" weight="0.32941988" />
-      <window_info active="true" anchor="right" id="Structure" order="10" sideWeight="0.50135136" visible="true" weight="0.18942101" />
+      <window_info anchor="right" id="Structure" order="10" sideWeight="0.50135136" weight="0.19656898" />
       <window_info anchor="right" x="93" y="93" width="1350" height="638" id="Byte Code Viewer" order="11" type="FLOATING" />
     </layout>
     <layout-to-restore>
@@ -811,91 +829,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/reverse/ReverseMN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="21" selection-start-line="18" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/LinkedHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="437" column="13" selection-start-line="437" selection-start-column="13" selection-end-line="437" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/reverse/ReverseKGroup.java" />
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/monotonousStack/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/monotonousStack/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/LRUCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/interviewQ/Demo16_25.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/Demo875.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" column="9" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/binaryCase/Demo1011.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1008">
-          <caret line="48" column="25" selection-start-line="48" selection-start-column="25" selection-end-line="48" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/afterTheRain/Demo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-          <folding>
-            <element signature="e#1794#1795#0" expanded="true" />
-            <element signature="e#1871#1872#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/monotonousStack/T503.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/afterTheRain/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="23" lean-forward="true" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOffer/Demo03.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -943,13 +876,6 @@
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#193#194#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/reverse/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -1195,27 +1121,136 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="975" column="19" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="166" column="7" selection-start-line="166" selection-start-column="7" selection-end-line="167" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="105" column="14" selection-start-line="105" selection-start-column="14" selection-end-line="105" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo20.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo18.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/reflect/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="45" column="69" selection-start-line="45" selection-start-column="69" selection-end-line="45" selection-end-column="69" />
+        <state relative-caret-position="483">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/cqupt/interviewQ/reference/WeakHashMapDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferTwo/Demo41.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="445">
-          <caret line="39" column="12" lean-forward="true" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="525">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/linkedList/reverse/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="479" column="45" selection-start-line="479" selection-start-column="45" selection-end-line="479" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="167" column="27" selection-start-line="167" selection-start-column="21" selection-end-line="167" selection-end-column="27" />
+          <folding>
+            <element signature="e#10659#10660#0" expanded="true" />
+            <element signature="e#10730#10731#0" expanded="true" />
+            <element signature="e#177013#177014#0" expanded="true" />
+            <element signature="e#177054#177055#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="jar://D:/Java/jdk1.8.0_191/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        <state relative-caret-position="509">
+          <caret line="264" column="33" selection-start-line="264" selection-start-column="33" selection-end-line="264" selection-end-column="33" />
+          <folding>
+            <element signature="e#15586#15587#0" expanded="true" />
+            <element signature="e#15631#15632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/hashMapTest/HashMapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="37" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo22.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/T23.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/cqupt/leetCode/pointOfferThree/Demo25.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
         </state>
       </provider>
     </entry>
