@@ -42,7 +42,7 @@ public class InsertSort {
                 nums[insertIndex + 1] = nums[insertIndex];
                 insertIndex --;
             }
-            if ((insertIndex + 1) != (i - 1))// 进行优化
+            if ((insertIndex + 1) != (i - 1))// 进行优化 // 此处应该是  insertIndex != (i-1)
                 nums[insertIndex + 1] = insertVal;
 //            nums[insertIndex + 1] = insertVal;
         }
