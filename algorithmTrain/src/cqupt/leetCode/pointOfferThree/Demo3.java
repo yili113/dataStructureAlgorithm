@@ -32,7 +32,9 @@ public class Demo3 {
         }
         return -1;
     }
+    void test() {
 
+    }
     public static void main(String[] args) {
         System.out.println(findRepeatNumber(new int[]{2,3,1,0,2,5,3}));
     }
