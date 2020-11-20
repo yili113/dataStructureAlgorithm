@@ -1,5 +1,7 @@
 package cqupt.leetCode.twoPointer;
 
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.Scanner;
 
 /**
@@ -29,6 +31,13 @@ public class Main {
         for (int tar : nums) {
             System.out.print(tar + " ");
         }
+        ArrayList<Integer> list = new ArrayList<>();
+        list.sort(new Comparator<Integer>() {
+            @Override
+            public int compare(Integer o1, Integer o2) {
+                return o1 - o2;
+            }
+        });
     }
     public static void option1(int[] arr) {
         int temp = arr[0];
