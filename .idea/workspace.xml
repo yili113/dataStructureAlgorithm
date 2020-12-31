@@ -2,10 +2,730 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c0cea8f-e4d5-414c-9c62-9f15cb024e44" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/leetCode/twoPointer/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/leetCode/twoPointer/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/leetCode/twoPointer/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/test/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/test/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/test/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/aLi/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/aLi/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/bilibili/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/bilibili/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/bilibili/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/huaWei/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/huaWei/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/huaWei/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/jD/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/jD/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/keDaXunFei/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/keDaXunFei/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/keDaXunFei/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/keDaXunFei/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/laoHu/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/laoHu/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/smallRedBook/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/smallRedBook/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/smallRedBook/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/tencent/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/tencent/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/tencent/Main3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/tencent/Main4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/weiMeng/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/weiMeng/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/xiaoMI/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/xiaoMI/Main2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/xieCheng/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/youZan/Main1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/writtenExamination/youZan/Main2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algorithmTrain/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmTrain/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/META-INF/algorithmTrain.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/bookTest/PrimeUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/bookTest/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/avlTree/AVLTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/avlTree/AVLTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/avlTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/BinarySortTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/binarySortTree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/graph/Graph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/hashTable/Emp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/hashTable/EmpLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/hashTable/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/hashTable/HashTableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/Boy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/CircleSingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/CircleSingleLinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/SingleLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/linkedList/SingleLinkedListDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/queue/CircleArrayQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/queue/CircleArrayQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/queue/QueueArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/queue/QueueArrDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/recursion/Labyrinth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/recursion/Queen8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/search/FibonacciSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/search/Search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/sparseArray/SparseArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/stack/ArrayStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/stack/ArrayStackDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/stack/Cal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/stack/PolandNotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/test/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/ArrBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/ArrBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/BinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/Huffmantree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/huffmanCode/HuffmanCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/huffmanCode/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/threaded/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/threaded/ThreadedBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/dataStructure/tree/threaded/ThreadedBinaryTreeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/demo/TestModifyTxt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/fromVideo/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/fromVideo/B.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/fromVideo/C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/fromVideo/D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/fromVideo/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/Exam4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/Exam5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/Father.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/JUCDemo/CountDownLatchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/JUCDemo/CountryEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/JUCDemo/CyclicBarrierDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/JUCDemo/SemaphoreDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/MyData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/BlockingQueuePC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/BlockingShareData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/ShareData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/TraditionPC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/V1Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/V1PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/V3Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/ProCon/V3PC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/Son.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/blockQueue/BlockingQueueProCon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/blockQueue/MyResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/blockQueue/ShareData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/blockQueue/SynchronousQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/blockQueue/TraditionalProCon.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/callable/CallableDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/callable/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/cas/ABADemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/cas/ABADemo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/cas/CASDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/cas/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/container/ContainerNoSafeDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/interview_volatile/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/interview_volatile/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/interview_volatile/MyData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/ConditionLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/DeadLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/HoldLockThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/MyCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/ReadWriteLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/ReenterLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/ShareResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/SpinLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/lock/TestLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/PhantomReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/ReferenceQueueDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/StrongReferenceDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/ThreadLocalDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/reference/WeakHashMapDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton6$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/singleDemo/Singleton7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest4$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest5$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest6$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/single/test/SingletonTest6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/threadPool/DivTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/threadPool/MyThreadPoolDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/threadPool/ScheduledExecutorDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/threadPool/ScheduledExecutorDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/interviewQ/threadPool/TestThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/array/MaxLen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/ComHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T102.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T1162_mapAnalyze.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T207.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T286_wallAndDoor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T542_matrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/T743.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/ComPQ.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/ComPos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/T490.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/T499.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bfs/maze/T505.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/Demo1011.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/Demo875.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/MountainArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T1095.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T69.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T704.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T74.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/binaryCase/T81.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bitOperation/T56Interview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/bitOperation/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T366_findBinaryTreeLeafNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T46_permutation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T51_nQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T78_subsets1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T79.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T90_subsets2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/T93.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dfs/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/Massager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T121.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T152.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T198.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T221.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T62_63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T70.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T72.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T887.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T91.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/T96.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/dp/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/exam/Edge.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/exam/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/exam/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/exam/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/exam/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Demo16_25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Demo17_04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Demo17_08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Demo17_19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/interviewQ/T673.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T160.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T19.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T234.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T328.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T445.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T445_addNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T725.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T82_83.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T86.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/T92_206.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/Test11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/reverse/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/reverse/Reverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/reverse/ReverseK.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/linkedList/reverse/ReverseMN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/matrix/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/matrix/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousQueue/Demo59_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousQueue/MonotonousQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousStack/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousStack/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousStack/T503.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/monotonousStack/TestMStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T1109.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T215.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T344.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T53.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T55_45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T56.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T62_interview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T73.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T892.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T914.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/noClassified/T999.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo05.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo10_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo10_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo14_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo19_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo27_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo29_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo31_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo32_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo32_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo32_3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo33_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo34_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo37_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo39_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo41_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo43_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo44_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo45_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo46.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo48_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo49_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo51_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo53_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo53_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo55_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo55_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo56_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo56_2_todo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo57_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo57_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo58_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo58_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo59_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo59_2_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo63.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo64.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo67.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo68_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Demo68_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Node1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/ResType_55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/ResultType68_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOffer/sock/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/ColorNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/ComDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/ComDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/ComHelper23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo14_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo32_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo37_important.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo43_important.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo45$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo53_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo53_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo55_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo55_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo56_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Demo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/IsPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Res.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Res55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton3$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton3$Inner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/SingletonTest/Singleton4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Student1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/T23.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/T329.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/TreadPool/CallableTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/TreadPool/MyCallable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/TreadPool/ThreadPoolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/TreePrint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/hashMapTest/HashMapTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/hashMapTest/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/linkedList/Demo52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/linkedList/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/linkedList/T141.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/linkedList/T142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/netEase/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/packet01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/reflect/TargetObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferThree/reflect/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/DataPC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/DeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/DeadLockHold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo03.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo04.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo06.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo07.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo09.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo10_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo14_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo14_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo21.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo215.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo22.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo24.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo25.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo28.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo29.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo30.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo31.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo32_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo32_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo33.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo33_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo34.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo35.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo36.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo37.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo37_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo38.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo39.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo40.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo41.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo42.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo43.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo44.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo45$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo45.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo47.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo48.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo49.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo50.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo51.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo52.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo53_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo53_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo54.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo55_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo56_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo56_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo57_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo57_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo58_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo58_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo59_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo59_2_impor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo61.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo65.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo66.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo68_1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo68_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Demo76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/DoubleNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/HashMapSort$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/HashMapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/LRUCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/MonQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Node62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/PCDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Res55.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Res68.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/afterTheRain/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/afterTheRain/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/houseRobber/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/houseRobber/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/houseRobber/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/houseRobber/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sock/Demo62.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/BubbleSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/HeapSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/InsertSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/RadixSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/SelectSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/sort/SelectSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/subsequence/Demo1143.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/subsequence/Demo300.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/subsequence/Demo516.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/subsequence/Demo674.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/unionFind/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/unionFind/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/unionFind/Demo200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/unionFind/Pos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/pointOfferTwo/unionFind/Pos200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Com.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceDP/Envelope.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/DelMidNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo14.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo15.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo17.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo18.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Demo9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/practiceLinked/demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/slidingWindow/T3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/slidingWindow/T438.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/slidingWindow/T76.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/stack/MinStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/stack/T739.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/BstTopoSize.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/BuildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ContainTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ContainTree2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/FindTwoErrors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/GenerateTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/GetMaxLen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/GetPostArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/HappyValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/IsBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/IsBalanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/IsCBT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/IsPostArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/Kmp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/LowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/MaxDis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/MaxSearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/NumTrees.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/Print.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/PrintLevel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/PrintTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResLowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResMaxDis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResNodeHappy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResType111.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResType124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResType98.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ResultType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/SerialTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T100_101.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T104.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T110.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T124.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T226.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T236.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T543.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T94_144_145.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/T98.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/TypeIsBalanced.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/resType543.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/ssNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/T820$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/T820.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/TireTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/Tirenode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/tree/tireTree/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T125.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T141_142.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T159_340.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T16.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T202.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T26.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T27.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T283.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T287.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T611.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T680.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T75.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/twoPointer/T80.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/Main5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/T130.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/T200.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/T305_numbersOfIslands_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/T323.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/leetCode/unionFind/T547.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/Exam5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/HashMapThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/MyData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/Test$Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/Test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/Test10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/TestHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/TestMethodTrans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/Person$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/Person$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/ServerBIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/nio/ServerNIO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/Demo8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/demo9/Case1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/demo9/Case2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/luban/synchronizedDemo/demo9/Case3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/taluotaluotu/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/taluotaluotu/QuickSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/out/production/algorithmTrain/cqupt/taluotaluotu/QuickSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/algorithmTrain/src/cqupt/leetCode/twoPointer/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/algorithmTrain/src/cqupt/leetCode/twoPointer/Main.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,33 +733,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/dataStructure/tree/ArrBinaryTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/interviewQ/JUCDemo/SemaphoreDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,102 +743,24 @@
     <option name="width" value="1380" />
     <option name="height" value="923" />
   </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
-              <item name="binarySortTree" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dataStructureAlgorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dataStructureAlgorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithmTrain" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="cqupt" type="462c0819:PsiDirectoryNode" />
-              <item name="interviewQ" type="462c0819:PsiDirectoryNode" />
-              <item name="JUCDemo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1kXz4ea3D4bahcLKy5f4zJLhWS9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="D:/android-sdk-windows/android-sdk-windows" />
+    <property name="android.sdk.path" value="$PROJECT_DIR$/../../android-sdk-windows/android-sdk-windows" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/algorithmTrain" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -162,151 +777,25 @@
       <workItem from="1593611502795" duration="21000" />
       <workItem from="1593611548034" duration="673000" />
       <workItem from="1593615590931" duration="631000" />
+      <workItem from="1605861535596" duration="407000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1602000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="226" y="95" width="1380" height="923" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Image Layers" order="0" />
-      <window_info id="Designer" order="1" />
-      <window_info id="UI Designer" order="2" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4989154" visible="true" weight="0.2560606" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="11" />
-      <window_info anchor="right" id="Palette" order="0" />
-      <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Maven" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Database" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info anchor="right" id="Structure" order="9" sideWeight="0.5010846" visible="true" weight="0.23939393" />
-      <window_info anchor="right" id="Maven Projects" order="10" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/dataStructure/tree/ArrBinaryTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/dataStructure/binarySortTree/BinarySortTreeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/algorithmTrain/src/cqupt/interviewQ/JUCDemo/SemaphoreDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605861703969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605861703969" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605861932304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605861932304" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1605861675368">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605861675368" />
   </component>
 </project>

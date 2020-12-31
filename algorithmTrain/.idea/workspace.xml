@@ -7,11 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d0d69d7-be9a-43db-8ef5-8b24ee29c1cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/raedme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cqupt/test/Main3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithmTrain/cqupt/test/Main3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cqupt/test/Main3.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,9 +55,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FavoritesManager">
-    <favorites_list name="algorithmTrain" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -465,7 +460,9 @@
       <workItem from="1605857844345" duration="1617000" />
       <workItem from="1605859556865" duration="183000" />
       <workItem from="1605859918733" duration="212000" />
-      <workItem from="1605861933930" duration="352000" />
+      <workItem from="1605861933930" duration="1032000" />
+      <workItem from="1606698033960" duration="632000" />
+      <workItem from="1609383031923" duration="84000" />
     </task>
     <servers />
   </component>
